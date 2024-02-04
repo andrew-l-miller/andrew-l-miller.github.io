@@ -8,7 +8,7 @@ authors:
 date: '2023-09-01'
 publishDate: '2024-02-04T19:16:42.709798Z'
 publication_types:
-- article-journal
+- 2
 publication: '*accepted, Phys. Rev. D*'
 links:
 - name: arXiv
