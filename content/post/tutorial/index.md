@@ -43,10 +43,3 @@ authors:
 
 1. Deformed, isolated neutron stars could spin down due to the loss of energy via gravitational waves. The timescale of energy loss greatly exceeds that of the observation time of the LIGO-Virgo-KAGRA detectors, and the gravitational-wave frequency is almost constant; hence, these signals are called continuous gravitational waves. The gravitational-wave signal is also Doppler modulated, due to the relative motion of the earth with respect to the source. 
 2. In this tutorial, we show how a simulated continuous gravitationanl-wave signal from a particular sky location is recovered with a pattern recognition technique called the Hough Transform.
-
-
-License
-
-# Copyright 2016-present [George Cushen](https://georgecushen.com).
-
-# Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md) license.
