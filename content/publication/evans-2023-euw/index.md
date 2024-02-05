@@ -6,7 +6,7 @@ authors:
 date: '2023-06-01'
 publishDate: '2024-02-05T03:08:28.044145Z'
 publication_types:
-- article-journal
+- 2
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2306.13745
