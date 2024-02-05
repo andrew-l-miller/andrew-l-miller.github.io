@@ -7,7 +7,7 @@ authors:
 date: '2023-01-01'
 publishDate: '2024-02-05T03:08:28.063108Z'
 publication_types:
-- article-journal
+- 2
 publication: '*Mon. Not. Roy. Astron. Soc.*'
 doi: 10.1093/mnras/stad624
 links:
