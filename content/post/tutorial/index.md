@@ -45,7 +45,7 @@ authors:
 2. In this tutorial, we show how a simulated continuous gravitationanl-wave signal from a particular sky location is recovered with a pattern recognition technique called the Hough Transform.
 
 
-## License
+License
 
 # Copyright 2016-present [George Cushen](https://georgecushen.com).
 
