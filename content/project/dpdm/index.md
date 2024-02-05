@@ -9,7 +9,7 @@ tags:
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: 
   focal_point: Smart
 
 links:
@@ -30,4 +30,4 @@ url_video: ''
 slides: example
 ---
 
-Primordial black holes
+Dark photon dark matter
