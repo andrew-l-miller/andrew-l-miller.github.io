@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'The Hough map: A 2-dimensional histogram in the frequency/spin-down plane of the source'
+  caption: 'The Hough map: A 2-dimensional histogram in the source plane'
   focal_point: ''
   placement: 2
   preview_only: false
