@@ -175,10 +175,12 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+        - name: Dark Matter
+          tag: Dark Matter, Primordial black holes
+        - name: Primordial Black Holes
+          tag: Primordial black holes
+        - name: Neutron stars
+          tag: Multi-messenger astronomy, GeV excess
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
