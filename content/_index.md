@@ -182,7 +182,7 @@ sections:
         - name: Neutron stars
           tag: Multi-messenger astronomy
         - name: Machine learning
-          tag: Detector glitches
+          tag: machine learning
         - name: GeV excess
           tag: GeV excess
     design:
