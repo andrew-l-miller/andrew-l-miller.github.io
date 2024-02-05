@@ -176,11 +176,16 @@ sections:
         - name: All
           tag: '*'
         - name: Dark Matter
-          tag: Dark Matter, Primordial black holes
+          tag: Dark Matter
+          tag: Primordial black holes
         - name: Primordial Black Holes
           tag: Primordial black holes
         - name: Neutron stars
-          tag: Multi-messenger astronomy, GeV excess
+          tag: Multi-messenger astronomy
+          tag: GeV excess
+        - name: Machine learning
+          tag: Detector glitches
+          tag: GeV excess
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
