@@ -161,7 +161,7 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: Projects
+      title: My Ongoing Projects
       filters:
         folders:
           - project
@@ -224,7 +224,7 @@ sections:
   - block: contact
     id: contact
     content:
-      title: Contact
+      title: Want to get involved? Contact me!
       subtitle:
       text: |-
       # Contact (add or remove contact options as necessary)
