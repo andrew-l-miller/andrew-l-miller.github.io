@@ -64,6 +64,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/andrew-l-miller
+  - icon: gitlab
+    icon_pack: fab
+    link: https://git.ligo.org/andrewlawrence.miller
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/andrew-miller-6b1938179/
