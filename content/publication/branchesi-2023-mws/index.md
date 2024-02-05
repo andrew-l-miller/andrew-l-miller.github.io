@@ -6,7 +6,7 @@ authors:
 date: '2023-01-01'
 publishDate: '2024-02-05T03:08:28.056686Z'
 publication_types:
-- article-journal
+- 2
 publication: '*JCAP*'
 doi: 10.1088/1475-7516/2023/07/068
 links:
