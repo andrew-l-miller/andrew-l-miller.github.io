@@ -31,11 +31,11 @@ image:
 authors:
   - admin
 
-tags:
-  - Academic
+# tags:
+#  - Academic
 
-categories:
-  - Demo
+# categories:
+#  - Demo
 ---
 
 
@@ -47,6 +47,6 @@ categories:
 
 ## License
 
-Copyright 2016-present [George Cushen](https://georgecushen.com).
+# Copyright 2016-present [George Cushen](https://georgecushen.com).
 
-Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md) license.
+# Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md) license.
