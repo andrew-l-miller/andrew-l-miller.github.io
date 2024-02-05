@@ -65,8 +65,8 @@ social:
     icon_pack: fab
     link: https://github.com/andrew-l-miller
   - icon: orcid
-  - icon_pak: fab
-  - link: https://orcid.org/0000-0002-4890-7627
+    icon_pak: fab
+    link: https://orcid.org/0000-0002-4890-7627
   - icon: gitlab
     icon_pack: fab
     link: https://git.ligo.org/andrewlawrence.miller
