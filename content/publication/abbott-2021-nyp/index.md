@@ -1,6 +1,6 @@
 ---
-title: Constraints on dark photon dark matter using data from LIGOtextquoterights
-  and Virgotextquoterights third observing run
+title: Constraints on dark photon dark matter using data from LIGO's
+  and Virgo's third observing run
 authors:
 - R. Abbott
 - ' others'
