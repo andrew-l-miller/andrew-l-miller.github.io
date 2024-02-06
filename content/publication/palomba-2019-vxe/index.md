@@ -7,7 +7,7 @@ authors:
 date: '2019-01-01'
 publishDate: '2024-02-06T14:48:20.139650Z'
 publication_types:
-- article-journal
+- 2
 publication: '*Phys. Rev. Lett.*'
 doi: 10.1103/PhysRevLett.123.171101
 links:
