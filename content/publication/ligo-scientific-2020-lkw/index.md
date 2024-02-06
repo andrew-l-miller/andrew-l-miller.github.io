@@ -7,7 +7,7 @@ authors:
 date: '2021-01-01'
 publishDate: '2024-02-06T14:48:20.094804Z'
 publication_types:
-- article-journal
+- 2
 publication: '*Astrophys. J.*'
 doi: 10.3847/2041-8213/abffcd
 links:
