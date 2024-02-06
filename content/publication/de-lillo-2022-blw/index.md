@@ -8,7 +8,7 @@ authors:
 date: '2022-04-01'
 publishDate: '2024-02-06T14:48:20.029602Z'
 publication_types:
-- article-journal
+- 2
 publication: '*Monthly Notices of the Royal Astronomical Society*'
 links:
 - name: arXiv
