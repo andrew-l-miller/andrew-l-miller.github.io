@@ -11,7 +11,7 @@ authors:
 date: '2021-01-01'
 publishDate: '2024-02-06T14:48:20.088236Z'
 publication_types:
-- article-journal
+- 2
 publication: '*Phys. Dark Univ.*'
 doi: 10.1016/j.dark.2021.100836
 links:
