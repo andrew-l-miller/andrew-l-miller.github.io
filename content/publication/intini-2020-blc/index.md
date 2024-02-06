@@ -14,7 +14,7 @@ authors:
 date: '2020-01-01'
 publishDate: '2024-02-06T14:48:20.113990Z'
 publication_types:
-- article-journal
+- 2
 publication: '*Class. Quant. Grav.*'
 doi: 10.1088/1361-6382/abac43
 ---
