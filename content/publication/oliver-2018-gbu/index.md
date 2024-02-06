@@ -10,7 +10,7 @@ authors:
 date: '2018-12-01'
 publishDate: '2024-02-06T14:48:20.158966Z'
 publication_types:
-- article-journal
+- 2
 doi: 10.1093/mnras/stz439
 links:
 - name: arXiv
