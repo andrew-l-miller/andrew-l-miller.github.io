@@ -6,7 +6,7 @@ authors:
 date: '2022-01-01'
 publishDate: '2024-02-06T14:48:20.068914Z'
 publication_types:
-- article-journal
+- 2
 publication: '*Prog. Part. Nucl. Phys.*'
 doi: 10.1016/j.ppnp.2022.103948
 links:
