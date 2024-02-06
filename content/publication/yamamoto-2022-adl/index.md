@@ -12,4 +12,7 @@ publication_types:
 - 2
 publication: '*Phys. Rev. D*'
 doi: 10.1103/PhysRevD.106.024025
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/2206.00882
 ---
