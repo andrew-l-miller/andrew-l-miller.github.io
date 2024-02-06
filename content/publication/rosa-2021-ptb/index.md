@@ -15,7 +15,7 @@ authors:
 date: '2021-01-01'
 publishDate: '2024-02-06T14:48:20.075318Z'
 publication_types:
-- article-journal
+- 2
 publication: '*Universe*'
 doi: 10.3390/universe7070218
 ---
