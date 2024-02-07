@@ -1,5 +1,5 @@
 ---
-title: Tutorial on the Hough trasnsform to search for continuous gravitational waves
+title: Tutorial on the frequency-Hough transform to search for continuous gravitational waves
 subtitle: Learn about searching for quasi-monochromatic, persistent gravitational waves from isolated neutron stars in this tutorial.
 
 # Summary for listings and search engines
