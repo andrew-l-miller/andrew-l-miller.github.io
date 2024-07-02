@@ -34,7 +34,7 @@ sections:
     content:
       title: 'My Research'
       subtitle: ''
-      text: ''
+      text: wow
     design:
       view: article-view
       columns: '1'
