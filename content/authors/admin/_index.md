@@ -51,8 +51,8 @@ profiles:
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: brands/cv
-    link: uploads/miller_CV.pdf
+#  - icon: brands/cv
+#    link: uploads/miller_CV.pdf
 
 
 # Social network links
