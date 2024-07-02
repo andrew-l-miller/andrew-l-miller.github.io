@@ -40,12 +40,12 @@ sections:
     design:
       columns: '1'
   - block: collection
-    id: papers
+    id: project
     content:
-      title: Featured Publications
+      title: Ongoing projects
       filters:
         folders:
-          - publication
+          - project
         featured_only: true
     design:
       view: article-grid
