@@ -38,21 +38,16 @@ profiles:
 #    label: Follow me on Twitter
 #    display:
 #      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.com/citations?hl=en&tzom=300&user=b-evGCQAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/andrew-l-miller
-  - icon: orcid
-    icon_pak: fab
-    link: https://orcid.org/0000-0002-4890-7627
-  - icon: gitlab
-    icon_pack: fab
-    link: https://git.ligo.org/andrewlawrence.miller
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/andrew-miller-6b1938179/
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?hl=en&tzom=300&user=b-evGCQAAAAJ
+  - icon: brands/github
+    url: https://github.com/andrew-l-miller
+  - icon: academicons/orcid
+    url: https://orcid.org/0000-0002-4890-7627
+  - icon: brands/gitlab
+    url: https://git.ligo.org/andrewlawrence.miller
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/andrew-miller-6b1938179/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
