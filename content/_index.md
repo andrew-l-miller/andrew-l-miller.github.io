@@ -48,7 +48,7 @@ sections:
     design:
       view: article-grid
       columns: 2
-      fill_image: false
+#      fill_image: false
   - block: collection
     id: news
     content:
