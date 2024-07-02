@@ -36,7 +36,6 @@ sections:
       subtitle: ''
       text: |-
         Developing innovative ways to search for neutron stars and to probe the existence of dark matter primordial black holes using gravitational waves.
-
     design:
       columns: '1'
   - block: collection
