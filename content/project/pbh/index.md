@@ -3,7 +3,7 @@ title: Detecting gravitational waves from sub-solar mass primordial black holes
 summary: Searching for planetary-mass inspiraling primordial black hole binaries.
 tags:
   - Primordial black holes
-# date: '2016-04-27T00:00:00Z'
+date: 2024-07-01
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
