@@ -45,7 +45,7 @@ sections:
       filters:
         folders:
           - project
-        featured_only: true
+        featured_only: false
     design:
       view: date-title-summary
   - block: collection
