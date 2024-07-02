@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: Selected Projects
-      text: Below are a list of projects that I work on. [Email me](mailto:amiller@nikhef.nl)  me at if you want to get involved! .
+      text: Below are a list of projects that I work on. Please contact me at if you want to get involved! .
       filters:
         folders:
           - project
