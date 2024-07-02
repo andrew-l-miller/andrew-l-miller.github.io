@@ -98,7 +98,7 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: collection
+#  - block: collection
     id: talks
     content:
       title: Recent & Upcoming Talks
