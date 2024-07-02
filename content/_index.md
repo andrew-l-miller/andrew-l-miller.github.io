@@ -30,14 +30,6 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: markdown
-    content:
-      title: 'My Research'
-      subtitle: ''
-      text: Developing innovative ways to search for neutron stars and to probe the existence of dark matter primordial black holes using gravitational waves.
-    design:
-      view: article-view
-      columns: '1'
   - block: collection
     content:
       title: Ongoing projects
