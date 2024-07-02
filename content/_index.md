@@ -35,10 +35,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-       Developing innovative ways to probe the existence of dark matter, neutron stars, and primordial black holes using gravitational-wave interferometers and machine learning
+        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
 
-    Please reach out to collaborate!
-
+        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        
+        Please reach out to collaborate 😃
     design:
       columns: '1'
   - block: collection
