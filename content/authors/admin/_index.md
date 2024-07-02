@@ -44,7 +44,7 @@ profiles:
     url: https://github.com/andrew-l-miller
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-4890-7627
-  - icon: brands/gitlab
+  - icon: devicon/gitlab
     url: https://git.ligo.org/andrewlawrence.miller
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/andrew-miller-6b1938179/
@@ -112,7 +112,7 @@ education:
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
+<!--work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
     company_url: ''
@@ -208,8 +208,10 @@ awards:
     icon: datacamp
     summary: |
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+-->
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Andrew L. Miller is a postdoctoral scholar at the National Institute for Subatomic Physics (Nikhef) and Utrecht University, in the Netherlands. His research interests include the detection of gravitational waves from neutron stars, primordial black holes binaries and particle dark matter. He is a member of the [LIGO-Virgo-KAGRA collaborations](https://www.ligo.caltech.edu/).
+{style="text-align: justify;"}
