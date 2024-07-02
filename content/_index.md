@@ -30,6 +30,14 @@ sections:
           size: cover
           position: center
           parallax: false
+  - block: markdown
+    content:
+      title: 'My Research'
+      subtitle: ''
+      text:
+    design:
+      view: article-view
+      columns: '1'
   - block: collection
     content:
       title: Ongoing projects
