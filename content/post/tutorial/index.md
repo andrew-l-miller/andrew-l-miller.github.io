@@ -9,10 +9,10 @@ summary: Learn about searching for quasi-monochromatic, persistent gravitational
 projects: []
 
 # Date published
-date: '2020-12-13T00:00:00Z'
+date: '2024-02-01T00:00:00Z'
 
 # Date updated
-lastmod: '2024-02-05T00:00:00Z'
+lastmod: '2024-07-01T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
