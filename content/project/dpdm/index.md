@@ -30,4 +30,4 @@ url_video: ''
 slides: example
 ---
 
-Dark photon dark matter
+Dark matter is one of the most mysterious phenonomen of the universe. While many models exist to explain it, none have been proven correct. With gravitational-wave interferometers, we could directly detect ultralight dark matter that could interact with the components of the interferometers themselves. Depending on what kind of dark matter -- axions, dark photons, dilatons, tensor bosons --, the interaction with standard-model particles will differ, but the signal arising from each of them would be very similar. I work to develop ways of detecting dark matter that would couple very weakly to the instruments, and give rise to a correlated, almost noise-like monochromatic signal in each interferometer, and also to distinguish between different types of dark-matter interactions with standard-model particles.
