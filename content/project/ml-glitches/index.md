@@ -3,7 +3,7 @@ title: Detector glitch classification with machine learning
 summary: Identifying different kinds of glitches in LIGO data using auxiliary channels
 tags:
   - machine learning
-# date: '2016-04-27T00:00:00Z'
+date: 2024-06-01
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -30,4 +30,4 @@ url_video: ''
 slides: example
 ---
 
-Detector glitches
+Glitches are extremely strong, random bursts of noise that affect the sensitivity of the detector. They happen very frequently, i.e. every few minutes or so, and take on many different forms. Though the origins of many are unknown, we are working on a way to classify these glitches and determine which part of the instrument they could have originated from. In our [recent work](https://arxiv.org/abs/2310.03453), we used unsupervised machine learning methods that analyze data from thousands of different channels to learn the underlying distributions of glitches, and essentially look for correlations between the different channels, and deviations from what we expect in the case of pure Gaussian noise. 
