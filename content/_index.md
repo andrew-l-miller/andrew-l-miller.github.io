@@ -32,7 +32,7 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: 'My Research'
       subtitle: ''
       text: |-
         Developing innovative ways to search for neutron stars and to probe the existence of dark matter primordial black holes using gravitational waves
