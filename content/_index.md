@@ -30,14 +30,6 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: markdown
-    content:
-      title: '📚 My Research'
-      subtitle: ''
-      text: |-
-        Developing innovative ways to probe the existence of dark matter, neutron stars and primordial black holes using LIGO, Virgo and KAGRA. Please reach out to collaborate!        
-    design:
-      columns: '1'
     - block: collection
     content:
       title: Ongoing Projects
@@ -48,7 +40,6 @@ sections:
         exclude_featured: false
     design:
       view: article-grid
-  
   - block: collection
     id: papers
     content:
