@@ -34,7 +34,7 @@ sections:
     content:
       title: 'My Research'
       subtitle: ''
-      text:
+      text: ''
     design:
       view: article-view
       columns: '1'
@@ -48,7 +48,7 @@ sections:
     design:
       view: article-grid
       columns: 2
-- block: collection
+  - block: collection
     id: news
     content:
       title: Tutorials
