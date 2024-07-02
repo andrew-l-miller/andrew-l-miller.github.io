@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      text: Below are a list of projects that I work on. [Email me](mailto:amiller@nikhef.nl)  me at if you want to get involved! .
       filters:
         folders:
           - project
