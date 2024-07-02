@@ -27,24 +27,58 @@ organizations:
   - name:  National Institute for Subatomic Physics (Nikhef)
     url: https://www.nikhef.nl/en/
 
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:amiller@nikhef.nl'
+#    link: '/#contact'
+#  - icon: twitter
+#    icon_pack: fab
+#    link: https://twitter.com/GeorgeCushen
+#    label: Follow me on Twitter
+#    display:
+#      header: true
+  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: fas
+    link: https://scholar.google.com/citations?hl=en&tzom=300&user=b-evGCQAAAAJ
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/andrew-l-miller
+  - icon: orcid
+    icon_pak: fab
+    link: https://orcid.org/0000-0002-4890-7627
+  - icon: gitlab
+    icon_pack: fab
+    link: https://git.ligo.org/andrewlawrence.miller
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/andrew-miller-6b1938179/
+  # Link to a PDF of your resume/CV.
+  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
+  # and uncomment the lines below.
+  - icon: cv
+    icon_pack: ai
+    link: uploads/resume.pdf
+
+
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
-profiles:
-  - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+# profiles:
+#  - icon: at-symbol
+#    url: 'mailto:your-email@example.com'
+#    label: E-mail Me
+#  - icon: brands/x
+#    url: https://twitter.com/GetResearchDev
+#  - icon: brands/instagram
+#    url: https://www.instagram.com/
+#  - icon: brands/github
+#    url: https://github.com/gcushen
+#  - icon: brands/linkedin
+#    url: https://www.linkedin.com/
+#  - icon: academicons/google-scholar
+#    url: https://scholar.google.com/
+#  - icon: academicons/orcid
+#    url: https://orcid.org/
 
 # Interests to show in About widget
 interests:
