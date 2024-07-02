@@ -27,7 +27,7 @@ organizations:
   - name:  National Institute for Subatomic Physics (Nikhef)
     url: https://www.nikhef.nl/en/
 
-social:
+profiles:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:amiller@nikhef.nl'
