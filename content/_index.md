@@ -63,6 +63,16 @@ sections:
         exclude_featured: false
     design:
       view: citation
+   - block: collection
+    id: projects
+    content:
+      title: Recent & Ongoing Talks
+      filters:
+        folders:
+          - project
+    design:
+      view: article-grid
+      columns: 1
   - block: collection
     id: talks
     content:
