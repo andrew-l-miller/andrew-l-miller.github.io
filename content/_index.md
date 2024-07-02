@@ -90,6 +90,7 @@ sections:
 #      columns: 2
   - block: collection
     content:
+      id: recent
       title: Recent Publications
       text: ""
       filters:
