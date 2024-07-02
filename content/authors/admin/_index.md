@@ -53,7 +53,7 @@ profiles:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/miller_CV.pdf
 
 
 # Social network links
