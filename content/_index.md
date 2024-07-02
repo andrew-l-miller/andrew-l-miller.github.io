@@ -34,7 +34,7 @@ sections:
     content:
       title: 'My Research'
       subtitle: ''
-      text: wow
+      text: Developing methods to detect particle dark matter, neutron stars and primordial black holes using gravitational waves. Please contact me to get involved!
     design:
       view: article-view
       columns: '1'
