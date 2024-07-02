@@ -47,7 +47,8 @@ sections:
           - project
         featured_only: false
     design:
-      view: date-title-summary
+      view: article-grid
+      columns: 2
   - block: collection
     id: papers
     content:
