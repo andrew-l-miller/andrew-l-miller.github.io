@@ -11,7 +11,7 @@ last_name: Miller
 
 # Status emoji
 status:
-  icon: ☕
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -78,7 +78,9 @@ profiles:
 interests:
   - Probing dark matter with gravitational waves
   - Direct detection of dark matter
-  - Neutron stars
+  - Searching for gravitational waves from neutron stars
+  - Machine learning
+  - Gravitational waves from binary primordial black holes
 
 education:
   - area: PhD Physics
