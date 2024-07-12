@@ -217,3 +217,8 @@ awards:
 
 Andrew L. Miller is a postdoctoral scholar at the National Institute for Subatomic Physics (Nikhef) and Utrecht University, in the Netherlands. His research interests include the detection of gravitational waves from neutron stars, primordial black holes binaries and particle dark matter. He is a member of the [LIGO-Virgo-KAGRA collaborations](https://www.ligo.caltech.edu/).
 {style="text-align: justify;"}
+
+h-index: [66](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20Andrew.L.Miller.1&ui-citation-summary=true) / [22](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=author%3AAndrew.L.Miller.1%20-%20abbott&ui-citation-summary=true) | publiations: 150 / 49 | # citations: 48k	/ 1.6k
+
+The first number is calculated by including all my publications plus LIGO ones; the second number is calculated by exlucding all LIGO works. 
+
