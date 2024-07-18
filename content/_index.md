@@ -91,7 +91,7 @@ sections:
 #      columns: 2
   - block: collection
     content:
-      id: rpub
+      id: publication
       title: Recent Publications
       text: ""
       filters:
