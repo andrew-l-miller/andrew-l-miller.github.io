@@ -220,5 +220,5 @@ Andrew L. Miller is a postdoctoral scholar at the National Institute for Subatom
 
 h-index: [66](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20Andrew.L.Miller.1&ui-citation-summary=true) / [22](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=author%3AAndrew.L.Miller.1%20-%20abbott&ui-citation-summary=true) | publiations: 150 / 49 | # citations: 48k	/ 1.6k
 
-The first number is calculated by including all my publications plus LIGO ones; the second number is calculated by exlucding all LIGO works. 
+The first number is calculated by including all my publications plus LIGO ones; the second number is calculated by excluding all LIGO works. 
 
