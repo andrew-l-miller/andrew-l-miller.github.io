@@ -35,11 +35,13 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+	Experienced scientist and data analyst with expertise in machine learning, signal processing, statistics, audio-frequency time domain data, and Python, with a strong background in physics, mathematics, and computing. Excellent communicator, independent and collaborative researcher; adept at bridging the gap between groups.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+	Since 2015, I have been a member of the Nobel Prize-winning LIGO Scientific Collaboration, a big-data astrophysics experiment, holding many leadership roles. 
+
+	Currently, I am developing statistical methods to detect dark matter and gravitational waves from black holes and neutron stars.
         
-        Please reach out to collaborate 😃
+	Please reach out to collaborate and see my projects page for more information about what I am working on 😃
     design:
       columns: '1'
   - block: collection
@@ -76,7 +78,7 @@ sections:
   - block: collection
     id: news
     content:
-      title: Recent News
+      title: Tutorials
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
