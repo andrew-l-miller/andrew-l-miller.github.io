@@ -9,16 +9,18 @@ main:
     weight: 10
   - name: Select Publications
     url: /#papers
-    weight: 11
+    weight: 15
   - name: All Publications
     url: /publication/
     weight: 12
   - name: Tutorials
-    url: /#news
+    url: /news
     weight: 13
   - name: Projects
     url: /projects/
     weight: 30
+  - name: Talks
+    url: /event/
   - name: Repositories
     url: /repos/
-    weight: 30
+    weight: 29
