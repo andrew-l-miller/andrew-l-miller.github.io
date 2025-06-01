@@ -113,28 +113,30 @@ education:
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Postdoctoral Scholar
+    company_name: Nikhef / Utrecht University
+    company_url: 'https://www.nikhef.nl/en/'
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2023-01-01
     date_end: ''
     summary: |2-
       Responsibilities include:
+      - Anomaly detection and machine learning methods to classify different types of glitches in GW detectors.
+      - Advising Bachelors, Masters and PhD students
+      - Early warning for neutron star mergers in Einstein Telescope data
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+  - position: FSR Postdoctoral Fellow
+    company_name: UCLouvain
+    company_url: 'https://www.uclouvain.be/en/research-institutes/irmp/cp3'
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2020-01-01
+    date_end: 2022-12-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Developing methods to detect dark matter interacting with gravitational-wave detectors and inspiraling primordial black holes; 
+      - Advising students on searches for gravitational waves from vector boson clouds around black holes and a stochastic background
+      - Building up a gravitational-wave group, organizing seminars, mentoring students, diversity and outreach.
+      - Awarded two Belgian national fellowships and one international fellowship through the European Space Agency (ESA)
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
