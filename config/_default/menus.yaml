@@ -14,13 +14,14 @@ main:
     url: /publication/
     weight: 12
   - name: Tutorials
-    url: /news
+    url: /tutorials
     weight: 13
   - name: Projects
     url: /projects/
     weight: 30
   - name: Talks
     url: /event/
+    weight: 28
   - name: Repositories
     url: /repos/
     weight: 29
