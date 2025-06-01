@@ -189,8 +189,9 @@ awards:
     url: https://www.frs-fnrs.be/docs/Resultats/FRS-FNRS_Candidatures_retenues_2022.pdf
     date: '2022-06-28'
     awarder: Fonds de la Recherche Scientifique (Fund for Scientific Research)
-#    icon: coursera
-    summary: | 3-year fellowship awarded by FNRS the National science funding agency in Belgium. Extremely competitive
+    icon: coursera
+    summary: | 
+      3-year fellowship awarded by FNRS the National science funding agency in Belgium. Extremely competitive
   - title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2023-07-01'
