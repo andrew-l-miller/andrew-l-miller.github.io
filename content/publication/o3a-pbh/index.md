@@ -46,7 +46,7 @@ publication_short: "PRL"
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   caption: 'PRL'
-  focal_point: ""
+  focal_point: Smart
   preview_only: false
 
 # Associated Projects (optional).
