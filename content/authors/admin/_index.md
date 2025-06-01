@@ -86,7 +86,7 @@ education:
     date_start: 2016-11-01
     date_end: 2019-10-31
     summary: |
-      Thesis on _Using machine learning and the Hough transform to search for gravitational waves due to r-mode emission by isolated neutron stars_. Supervised by [Pia Astone](https://www.roma1.infn.it/~astone/) [Prof. Bernard Whiting](https://www.phys.ufl.edu/wp/index.php/people/faculty/bernard-whiting/).
+      Thesis on _Using machine learning and the Hough transform to search for gravitational waves due to r-mode emission by isolated neutron stars_. Supervised by [Pia Astone](https://www.roma1.infn.it/~astone/) and [Prof. Bernard Whiting](https://www.phys.ufl.edu/wp/index.php/people/faculty/bernard-whiting/).
     button:
       text: 'Read Thesis'
       url: 'https://original-ufdc.uflib.ufl.edu/UFE0055970/00001'
@@ -124,6 +124,7 @@ work:
       - Anomaly detection and machine learning methods to classify different types of glitches in GW detectors.
       - Advising Bachelors, Masters and PhD students
       - Early warning for neutron star mergers in Einstein Telescope data
+      - Supervised by [Chris van den Broek](https://www.uu.nl/staff/CFFvandenBroeck1) and [Sarah Caudill](https://www.umassd.edu/directory/scaudill/)
 
   - position: FSR Postdoctoral Fellow
     company_name: UCLouvain
@@ -137,6 +138,7 @@ work:
       - Advising students on searches for gravitational waves from vector boson clouds around black holes and a stochastic background
       - Building up a gravitational-wave group, organizing seminars, mentoring students, diversity and outreach.
       - Awarded two Belgian national fellowships and one international fellowship through the European Space Agency (ESA)
+      - Supervised by [Giacomo Bruno](https://cp3.irmp.ucl.ac.be/public/member/7)
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
