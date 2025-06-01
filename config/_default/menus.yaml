@@ -24,3 +24,6 @@ main:
   - name: Repositories
     url: /repos/
     weight: 29
+  - name: Experience
+    url: /experience/
+    weight: 28
