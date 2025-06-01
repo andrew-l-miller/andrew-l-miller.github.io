@@ -33,7 +33,7 @@ tags: []
 featured: true
 
 image:
-  filename: ictp_saifr_talk.jpg
+  filename: ictp-saifr-image.jpeg
   focal_point: Right
 #  caption: 'Photo of me hiking in Chile.'
 #  alt_text: 'Man standing on a mountain in Chile'
