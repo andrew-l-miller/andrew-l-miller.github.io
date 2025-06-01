@@ -44,7 +44,7 @@ image:
 url_code: 'https://github.com'
 url_pdf: ''
 url_slides: 'https://slideshare.net'
-url_video: 'https://youtube.com'
+url_video: 'https://www.youtube.com/watch?v=1KsVTHTFam0&themeRefresh=1'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
