@@ -3,7 +3,7 @@ title: Constraining the millisecond pulsar hypothesis of the GeV excess using co
 summary: Could pulsars explain the Gev excess, and can continuous waves tell us something about it?
 tags:
   - GeV excess
-# date: '2016-04-27T00:00:00Z'
+# date: '2025-05-31T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
