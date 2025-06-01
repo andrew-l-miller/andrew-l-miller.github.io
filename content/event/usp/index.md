@@ -22,7 +22,7 @@ abstract: 'Standard stellar-mass binary black holes inspiral and merge in just a
 #all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: ''
+publishDate: '2024-01-01'
 
 authors:
   - admin
