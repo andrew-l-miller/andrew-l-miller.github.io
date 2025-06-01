@@ -20,7 +20,7 @@ publication_types: ["article-journal"]
 
 # tags:
 # - Source Themes
-# featured: true
+featured: true
 
 # links:
 # - name: ""

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Andrew L. miller
+title: Andrew L. Miller
 
 # Name pronunciation (optional)
 # name_pronunciation: Chien Shiung Wu
@@ -11,7 +11,7 @@ last_name: Miller
 
 # Status emoji
 status:
-  icon: ☕
+  icon: Ⓐ
 
 # Is this the primary user of the site?
 superuser: true
