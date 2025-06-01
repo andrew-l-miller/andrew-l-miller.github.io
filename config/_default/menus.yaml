@@ -16,3 +16,6 @@ main:
   - name: Projects
     url: projects/
     weight: 30
+  - name: Repositories
+    url: repos/
+    weight: 30

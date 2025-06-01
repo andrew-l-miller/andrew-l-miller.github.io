@@ -17,9 +17,6 @@ publishDate: "2024-07-25T00:00:00Z"
 # Enter a publication type from the CSL standard.
 publication_types: ["article-journal"]
 
-# Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
 
 tags:
 - Source Themes
@@ -29,16 +26,18 @@ featured: true
 # - name: ""
 #   url: ""
 url_pdf: https://arxiv.org/pdf/2402.19468
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: ''
+url_code: 'https://pypi.org/project/cw-constrain/'
+url_dataset: 'https://zenodo.org/records/10724845'
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
 
+# Publication name and optional abbreviated publication name.
 publication: "*Phys. Rev. Lett.* **133**(11) (2024) 111401"
 doi: "10.1103/PhysRevLett.133.111401"
+publication_short: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
