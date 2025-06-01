@@ -1,5 +1,5 @@
 ---
-title: Long-lived sources of gravitational waves: (mini) extreme mass ratio inspirals, inspiraling primordial black holes and neutron stars
+title: 'Long-lived sources of gravitational waves: (mini) extreme mass ratio inspirals, inspiraling primordial black holes and neutron stars'
 
 event: Seminar at USP
 #event_url: 
