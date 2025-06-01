@@ -17,6 +17,9 @@ publishDate: "2024-07-25T00:00:00Z"
 # Enter a publication type from the CSL standard.
 publication_types: ["article-journal"]
 
+# Summary. An optional shortened abstract.
+summary: Results from the first search for gravitational waves from inspiraling planetary-mass primordial black holes with LIGO.
+
 
 # tags:
 # - Source Themes
@@ -42,6 +45,7 @@ publication_short: ""
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
+  caption: 'PRL'
   focal_point: ""
   preview_only: false
 
