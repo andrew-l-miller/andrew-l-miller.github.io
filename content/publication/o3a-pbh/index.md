@@ -2,7 +2,7 @@
 title: "Gravitational Wave Constraints on Planetary-Mass Primordial Black Holes Using LIGO O3a Data"
 authors:
 - admin
-- et al.
+- Nancy Aggarwal et al.
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
@@ -43,7 +43,6 @@ doi: "10.1103/PhysRevLett.133.111401"
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
   preview_only: false
 
