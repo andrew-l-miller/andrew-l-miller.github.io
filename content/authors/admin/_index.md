@@ -124,6 +124,7 @@ work:
       - Anomaly detection and machine learning methods to classify different types of glitches in GW detectors.
       - Advising Bachelors, Masters and PhD students
       - Early warning for neutron star mergers in Einstein Telescope data
+
   - position: FSR Postdoctoral Fellow
     company_name: UCLouvain
     company_url: 'https://www.uclouvain.be/en/research-institutes/irmp/cp3'
