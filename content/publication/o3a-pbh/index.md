@@ -21,8 +21,8 @@ publication_types: ["article-journal"]
 summary: Results from the first search for gravitational waves from inspiraling planetary-mass primordial black holes with LIGO.
 
 
-# tags:
-# - Source Themes
+tags:
+ - Phys. Rev. Lett.
 featured: true
 
 # links:
