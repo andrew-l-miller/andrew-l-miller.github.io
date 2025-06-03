@@ -1,52 +1,69 @@
-import bibtexparser
 import os
+from datetime import datetime
+import bibtexparser
 
-input_bib = "/Users/andrewmiller/Desktop/h-index-calculation/europasscv_example.bib"  # Path to your .bib file
-output_dir = "content/publication"
+# Path to your .bib file and Hugo content folder
+bib_file = "/Users/andrewmiller/Desktop/h-index-calculation/europasscv_example.bib"
+output_folder = "content/publication"
 
-with open(input_bib) as bibtex_file:
-    bib_database = bibtexparser.load(bibtex_file)
+def format_title(title):
+    """Quote YAML titles safely."""
+    if any(c in title for c in ['$', '\\', '^']):
+        return f"'{title.strip()}'"
+    else:
+        return f'"{title.strip()}"'
 
-for entry in bib_database.entries:
-    slug = entry.get('ID', 'untitled').replace(':', '-').replace('/', '-').lower()
-    title = entry.get('title', '').replace('{', '').replace('}', '')
-    authors = [a.strip() for a in entry.get('author', '').split(' and ')]
-    year = entry.get('year', '2020')
-    month = entry.get('month', '01')  # Optional: parse to number if needed
-    date = f"{year}-{month}-01"
-    journal = entry.get('journal', '') or entry.get('booktitle', '')
-    volume = entry.get('volume', '')
-    number = entry.get('number', '')
-    doi = entry.get('doi', '')
+def bib_entry_to_markdown(entry):
+    entry_id = entry['ID']
+    title = format_title(entry.get("title", "No Title"))
 
-    pub_str = f"{journal}"
-    if volume:
-        pub_str += f", {volume}"
-    if number:
-        pub_str += f"({number})"
+    # Authors
+    authors = [a.strip() for a in entry.get("author", "").replace('\n', ' ').split(" and ")]
+    author_yaml = "\n  - " + "\n  - ".join(authors)
 
-    folder = os.path.join(output_dir, slug)
-    os.makedirs(folder, exist_ok=True)
+    # Date handling
+    year = int(entry.get("year", "1900"))
+    month = entry.get("month", "01").strip().replace(".", "")
+    try:
+        month = int(month)
+    except ValueError:
+        month = 1
+    date_str = f"{year:04d}-{month:02d}-01"
 
-    content = f"""---
-title: "{title}"
-authors:
-"""
-    for author in authors:
-        content += f"  - {author}\n"
+    # Publication
+    publication = entry.get("journal", "") or entry.get("booktitle", "")
+    publication = publication.replace(r"\&", "&")
 
-    content += f"""date: {date}
-publication: "{pub_str}"
+    # DOI and URL
+    doi = entry.get("doi", "").strip()
+    url_doi = f"https://doi.org/{doi}" if doi else "https://doi.org/"
+
+    # YAML front matter
+    yaml = f"""---
+title: {title}
+authors:{author_yaml}
+date: {date_str}
+publication: "{publication}"
 doi: "{doi}"
-url_doi: "https://doi.org/{doi}"
+url_doi: "{url_doi}"
 # featured: false
 # summary: ""
 # tags: []
 # projects: []
 ---
 """
+    return entry_id, yaml
 
-    with open(os.path.join(folder, "index.md"), "w") as f:
+# Read .bib file
+with open(bib_file) as bibtex_file:
+    bib_database = bibtexparser.load(bibtex_file)
+
+# Write .md files
+for entry in bib_database.entries:
+    entry_id, content = bib_entry_to_markdown(entry)
+    out_dir = os.path.join(output_folder, entry_id)
+    os.makedirs(out_dir, exist_ok=True)
+    with open(os.path.join(out_dir, "index.md"), "w") as f:
         f.write(content)
 
-print("✅ Finished generating publications.")
+print("✅ All publications generated.")

@@ -1,5 +1,5 @@
 ---
-title: "Using gravitational-wave interferometers as particle detectors to directly probe the existence of dark matter"
+title: "{Using gravitational-wave interferometers as particle detectors to directly probe the existence of dark matter}"
 authors:
   - Miller, Andrew L.
   - others
