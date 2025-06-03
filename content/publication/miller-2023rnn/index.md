@@ -1,0 +1,15 @@
+---
+title: "Enabling multimessenger astronomy with continuous gravitational waves: Early warning and sky localization of binary neutron stars in the Einstein Telescope"
+authors:
+  - Miller, Andrew L.
+  - Singh, Neha
+  - Palomba, Cristiano
+date: 2024-2-01
+publication: "Phys. Rev. D, 109(4)"
+doi: "10.1103/PhysRevD.109.043021"
+url_doi: "https://doi.org/10.1103/PhysRevD.109.043021"
+# featured: false
+# summary: ""
+# tags: []
+# projects: []
+---
