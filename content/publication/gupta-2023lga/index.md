@@ -1,5 +1,5 @@
 ---
-title: "Characterizing Gravitational Wave Detector Networks: From A$^\sharp$ to Cosmic Explorer"
+title: 'Characterizing Gravitational Wave Detector Networks: From A$^\sharp$ to Cosmic Explorer'
 authors:
   - Gupta, Ish
   - others
