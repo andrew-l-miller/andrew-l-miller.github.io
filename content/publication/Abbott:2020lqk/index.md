@@ -7,6 +7,7 @@ date: 2020-01-01
 publication: "Astrophys. J. Lett."
 doi: "10.3847/2041-8213/abb655"
 url_doi: "https://doi.org/10.3847/2041-8213/abb655"
+# generated_on: 2025-06-02T22:04:01.053283
 # featured: false
 # summary: ""
 # tags: []

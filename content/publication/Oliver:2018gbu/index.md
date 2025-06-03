@@ -10,6 +10,7 @@ date: 2019-01-01
 publication: "Mon. Not. Roy. Astron. Soc."
 doi: "10.1093/mnras/stz439"
 url_doi: "https://doi.org/10.1093/mnras/stz439"
+# generated_on: 2025-06-02T22:04:01.054282
 # featured: false
 # summary: ""
 # tags: []

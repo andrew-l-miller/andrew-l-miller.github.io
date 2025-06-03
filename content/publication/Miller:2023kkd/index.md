@@ -7,6 +7,7 @@ date: 2023-03-01
 publication: "Phys. Rev. D"
 doi: "10.1103/PhysRevD.107.063015"
 url_doi: "https://doi.org/10.1103/PhysRevD.107.063015"
+# generated_on: 2025-06-02T22:04:01.050528
 # featured: false
 # summary: ""
 # tags: []
