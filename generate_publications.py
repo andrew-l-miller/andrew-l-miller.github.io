@@ -26,7 +26,6 @@ def parse_date(entry):
     except ValueError:
         year = 1900
 
-    # Handle month as number or string
     if month.isdigit():
         month = int(month)
     else:
@@ -68,6 +67,7 @@ url_doi: "{url_doi}"
 # projects: []
 ---
 """
+    print(yaml)
     return entry_id, yaml
 
 with open(bib_file) as bibtex_file:
@@ -78,7 +78,13 @@ for entry in bib_database.entries:
     out_dir = os.path.join(output_folder, entry_id)
     os.makedirs(out_dir, exist_ok=True)
     filepath = os.path.join(out_dir, "index.md")
-    print(f"Writing to {os.path.abspath(filepath)}")
+
+    print(filepath)
+
+    # Optional: explicitly delete old index.md if it exists
+    if os.path.exists(filepath):
+        os.remove(filepath)
+
     with open(filepath, "w") as f:
         f.write(content)
 
