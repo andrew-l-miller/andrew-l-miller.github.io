@@ -77,8 +77,10 @@ profiles:
 # Interests to show in About widget
 interests:
   - Probing dark matter with gravitational waves
-  - Direct detection of dark matter
+  - Primordial black holes
+  - Ultralight boson clouds around rotating black holes
   - Neutron stars
+  - Machine learning
 
 education:
   - area: PhD Physics
