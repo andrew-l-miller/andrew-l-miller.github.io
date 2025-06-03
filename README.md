@@ -1,1 +1,1 @@
-Made with Hugo.
+Made with Hugo
