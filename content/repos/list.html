@@ -1,0 +1,14 @@
+{{ define "main" }}
+<main class="content">
+  <h1>{{ .Title }}</h1>
+  <p>Here are some of my key projects:</p>
+  <ul>
+  {{ range .Pages }}
+    <li>
+      <h3><a href="{{ .Params.url | default .Permalink }}" target="_blank" rel="noopener">{{ .Title }}</a></h3>
+      <p>{{ .Params.description }}</p>
+    </li>
+  {{ end }}
+  </ul>
+</main>
+{{ end }}
