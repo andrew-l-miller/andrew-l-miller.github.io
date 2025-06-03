@@ -1,5 +1,5 @@
 ---
-title: "{How beaming of gravitational waves compares to the beaming of electromagnetic waves: impacts to gravitational wave detection}"
+title: "How beaming of gravitational waves compares to the beaming of electromagnetic waves: impacts to gravitational wave detection"
 authors:
   - Miller, Andrew L.
   - Wickramasinghe, Thulsi
@@ -7,7 +7,8 @@ date: 2016-01-01
 publication: "J. Phys. Conf. Ser."
 doi: "10.1088/1742-6596/716/1/012006"
 url_doi: "https://doi.org/10.1088/1742-6596/716/1/012006"
-# generated_on: 2025-06-02T22:25:19.339271
+url_pdf: "https://arxiv.org/pdf/1609.09832.pdf"
+# generated_on: 2025-06-02T22:45:59.888011
 # featured: false
 # summary: ""
 # tags: []

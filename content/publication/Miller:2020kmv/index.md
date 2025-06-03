@@ -1,5 +1,5 @@
 ---
-title: "{Probing planetary-mass primordial black holes with continuous gravitational waves}"
+title: "Probing planetary-mass primordial black holes with continuous gravitational waves"
 authors:
   - Miller, Andrew L.
   - Clesse, S\'ebastien
@@ -11,7 +11,8 @@ date: 2021-01-01
 publication: "Phys. Dark Univ."
 doi: "10.1016/j.dark.2021.100836"
 url_doi: "https://doi.org/10.1016/j.dark.2021.100836"
-# generated_on: 2025-06-02T22:25:19.335824
+url_pdf: "https://arxiv.org/pdf/2012.12983.pdf"
+# generated_on: 2025-06-02T22:45:59.883948
 # featured: false
 # summary: ""
 # tags: []

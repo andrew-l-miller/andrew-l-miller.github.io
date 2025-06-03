@@ -1,5 +1,5 @@
 ---
-title: "{Stochastic gravitational-wave background searches and constraints on neutron-star ellipticity}"
+title: "Stochastic gravitational-wave background searches and constraints on neutron-star ellipticity"
 authors:
   - De Lillo, Federico
   - Suresh, Jishnu
@@ -7,8 +7,9 @@ authors:
 date: 2022-04-01
 publication: "Monthly Notices of the Royal Astronomical Society"
 doi: ""
-url_doi: "https://doi.org/"
-# generated_on: 2025-06-02T22:25:19.334433
+url_doi: ""
+url_pdf: "https://arxiv.org/pdf/2203.03536.pdf"
+# generated_on: 2025-06-02T22:45:59.881943
 # featured: false
 # summary: ""
 # tags: []

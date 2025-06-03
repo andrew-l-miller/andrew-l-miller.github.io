@@ -1,5 +1,5 @@
 ---
-title: "{Matched-filter study and energy budget suggest no detectable gravitational-wave 'extended emission' from GW170817}"
+title: "Matched-filter study and energy budget suggest no detectable gravitational-wave 'extended emission' from GW170817"
 authors:
   - Oliver, Miquel
   - Keitel, David
@@ -10,7 +10,8 @@ date: 2019-01-01
 publication: "Mon. Not. Roy. Astron. Soc."
 doi: "10.1093/mnras/stz439"
 url_doi: "https://doi.org/10.1093/mnras/stz439"
-# generated_on: 2025-06-02T22:25:19.337720
+url_pdf: "https://arxiv.org/pdf/1812.06724.pdf"
+# generated_on: 2025-06-02T22:45:59.886325
 # featured: false
 # summary: ""
 # tags: []

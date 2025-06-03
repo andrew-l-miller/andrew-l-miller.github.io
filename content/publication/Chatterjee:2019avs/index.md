@@ -1,5 +1,5 @@
 ---
-title: "{A Machine Learning Based Source Property Inference for Compact Binary Mergers}"
+title: "A Machine Learning Based Source Property Inference for Compact Binary Mergers"
 authors:
   - Chatterjee, Deep
   - Ghosh, Shaon
@@ -12,7 +12,8 @@ date: 2020-01-01
 publication: "Astrophys. J."
 doi: "10.3847/1538-4357/ab8dbe"
 url_doi: "https://doi.org/10.3847/1538-4357/ab8dbe"
-# generated_on: 2025-06-02T22:25:19.336939
+url_pdf: "https://arxiv.org/pdf/1911.00116.pdf"
+# generated_on: 2025-06-02T22:45:59.885232
 # featured: false
 # summary: ""
 # tags: []

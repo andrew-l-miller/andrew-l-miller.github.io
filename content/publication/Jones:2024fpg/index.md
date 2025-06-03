@@ -1,5 +1,5 @@
 ---
-title: "{Methodology for constraining ultralight vector bosons with gravitational wave searches targeting merger remnant black holes}"
+title: "Methodology for constraining ultralight vector bosons with gravitational wave searches targeting merger remnant black holes"
 authors:
   - Jones, Dana
   - Siemonsen, Nils
@@ -12,7 +12,8 @@ date: 2025-01-01
 publication: "Phys. Rev. D"
 doi: "10.1103/PhysRevD.111.063028"
 url_doi: "https://doi.org/10.1103/PhysRevD.111.063028"
-# generated_on: 2025-06-02T22:25:19.331412
+url_pdf: "https://arxiv.org/pdf/2412.00320.pdf"
+# generated_on: 2025-06-02T22:45:59.877228
 # featured: false
 # summary: ""
 # tags: []

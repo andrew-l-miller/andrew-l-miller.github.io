@@ -1,5 +1,5 @@
 ---
-title: "{Snowmass2021 Cosmic Frontier White Paper: Probing dark matter with small-scale astrophysical observations}"
+title: "Snowmass2021 Cosmic Frontier White Paper: Probing dark matter with small-scale astrophysical observations"
 authors:
   - Brito, Richard
   - Chakrabarti, Sukanya
@@ -14,8 +14,9 @@ authors:
 date: 2022-03-01
 publication: ""
 doi: ""
-url_doi: "https://doi.org/"
-# generated_on: 2025-06-02T22:25:19.334578
+url_doi: ""
+url_pdf: "https://arxiv.org/pdf/2203.15954.pdf"
+# generated_on: 2025-06-02T22:45:59.882153
 # featured: false
 # summary: ""
 # tags: []

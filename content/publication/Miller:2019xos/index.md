@@ -5,8 +5,9 @@ authors:
 date: 2019-01-01
 publication: ""
 doi: ""
-url_doi: "https://doi.org/"
-# generated_on: 2025-06-02T22:25:19.337203
+url_doi: ""
+url_pdf: ""
+# generated_on: 2025-06-02T22:45:59.885608
 # featured: false
 # summary: ""
 # tags: []

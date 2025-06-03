@@ -1,5 +1,5 @@
 ---
-title: "{Continuous Gravitational-Wave Data Analysis with General Purpose Computing on Graphic Processing Units}"
+title: "Continuous Gravitational-Wave Data Analysis with General Purpose Computing on Graphic Processing Units"
 authors:
   - Rosa, Iuri La
   - Astone, Pia
@@ -15,7 +15,8 @@ date: 2021-01-01
 publication: "Universe"
 doi: "10.3390/universe7070218"
 url_doi: "https://doi.org/10.3390/universe7070218"
-# generated_on: 2025-06-02T22:25:19.335535
+url_pdf: ""
+# generated_on: 2025-06-02T22:45:59.883556
 # featured: false
 # summary: ""
 # tags: []
