@@ -3,7 +3,8 @@ title: Machine learning to detect continuous gravitational waves
 summary:  Convolutional neural networks to search for continuous waves from isolated neutron stars in non-Gaussian noise
 tags:
   - Machine learning
-# date: '2016-04-27T00:00:00Z'
+
+date: '2025-06-02'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

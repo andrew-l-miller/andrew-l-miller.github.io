@@ -3,7 +3,8 @@ title: Detector glitch classification with machine learning
 summary: Identifying different kinds of glitches in LIGO data using auxiliary channels
 tags:
   - machine learning
-# date: '2016-04-27T00:00:00Z'
+
+date: '2025-06-02'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

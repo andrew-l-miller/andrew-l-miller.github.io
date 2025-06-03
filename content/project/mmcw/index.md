@@ -3,7 +3,8 @@ title: Multi-messenger astronomy with continuous gravitational waves
 summary: Early warning and sky localization of binary neutron star inspirals in Einstein Telescope using continuous waves methods
 tags:
   - Multi-messenger astronomy
-# date: '2016-04-27T00:00:00Z'
+
+date: '2025-06-02'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

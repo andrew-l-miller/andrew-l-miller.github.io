@@ -3,7 +3,7 @@ title: Directly detecting particle dark matter with LIGO, Virgo and KAGRA
 summary: Searching for dark photon dark matter coupling to baryons in the LIGO mirrors
 tags:
   - Dark matter
- date: '2025-06-02'
+date: '2025-06-02'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
