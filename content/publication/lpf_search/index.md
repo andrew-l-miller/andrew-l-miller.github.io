@@ -1,15 +1,15 @@
 ---
-title: "Probing new light gauge bosons with gravitational-wave interferometers using an adapted semicoherent method"
-authors:
+title: "First search for ultralight dark matter with a space-based gravitational-wave antenna: LISA Pathfinder"
+authors
 - admin
-- et al.
+- Luis Mendes
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
 date: "2021-05-04T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-05-04"
+publishDate: "2023-05-05"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -17,7 +17,7 @@ publishDate: "2021-05-04"
 publication_types: ["article-journal"]
 
 # Summary. An optional shortened abstract.
-summary: New method to search for a variety of ultralight dark matter interactions with gravitational-wave detectors.
+summary: Applying pattern recognition techniques to LISA Pathfinder data to search for ultralight dark matter.
 
 
 tags:
@@ -27,7 +27,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://arxiv.org/pdf/2010.01925
+url_pdf: https://arxiv.org/pdf/2301.08736
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -37,8 +37,8 @@ url_source: ''
 url_video: ''
 
 # Publication name and optional abbreviated publication name.
-publication: "*Phys. Rev. D* **103**(10) (2021) 103002"
-doi: "10.1103/PhysRevD.103.103002"
+publication: "*Phys. Rev. D* **107**(6) (2023) 063015"
+doi: "10.1103/PhysRevD.107.063015"
 publication_short: "PRD"
 
 # Featured image
