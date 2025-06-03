@@ -1,6 +1,6 @@
 ---
 title: "First search for ultralight dark matter with a space-based gravitational-wave antenna: LISA Pathfinder"
-authors
+authors:
 - admin
 - Luis Mendes
 author_notes:
