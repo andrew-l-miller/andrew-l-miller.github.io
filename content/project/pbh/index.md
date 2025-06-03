@@ -30,4 +30,4 @@ url_video: ''
 slides: example
 ---
 
-Primordial black holes
+We are searching for gravitational waves from tiny black holes much less massive than our Sun, called planetary-mass primordial black holes. These black holes may have formed in the early universe and could make up some of the mysterious dark matter. When two of these small black holes orbit each other, they emit gravitational waves as they inspiral. Detecting these objects would confirm the existence of primordial black holes and help explain the universe’s hidden mass. Advanced detectors like LIGO, Virgo and KAGRA are scanning the cosmos for these faint signals, opening a new window on the early universe, as we show in [our recent paper](https://arxiv.org/abs/2402.19468).

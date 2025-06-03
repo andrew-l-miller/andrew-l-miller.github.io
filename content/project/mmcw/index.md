@@ -30,4 +30,4 @@ url_video: ''
 slides: example
 ---
 
-Multi-messenger astronomy
+We are exploring new ways to detect gravitational waves from the long-lived inspiral of binary neutron stars using next-generation detectors like the Einstein Telescope, which will be sensitive to low frequencies, potentially as low as 2 Hz. By analyzing low frequencies, we could potentially detect the inspiraling binary neutron star system hours before the actual merger, providing early warnings to astronomers who then have time to prepare and observe the merger with other instruments, enhancing our understanding of the universe. We have shown in [our recent paper](https://arxiv.org/abs/2309.15808) that our method could rival the sensitivity of matched filtering at a fraction of the computational cost.

@@ -30,4 +30,4 @@ url_video: ''
 slides: example
 ---
 
-Detector glitches
+On the other hand, we have also worked on identifying new kinds of glitches in gravitational-wave detector data using machine learning (autoencoders). These glitches—brief, non-Gaussian bursts of power—can interfere with the detection of black hole mergers, especially intermediate mass-ratio ones. Traditional methods rely on known glitch patterns, but in [our recent paper](https://arxiv.org/abs/2310.03453), we have shown that by analyzing auxiliary data from the detectors, our machine-learning method is able to discern new kinds of glitches that would have been overlooked in a traditional supervised learning approach.

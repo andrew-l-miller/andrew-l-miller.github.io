@@ -30,4 +30,4 @@ url_video: ''
 slides: example
 ---
 
-Detector glitches
+We can use convolutional neural networks (CNNs) to find continuous gravitational waves, faint signals from spinning, nonaxisymmetric neutron stars. These signals can be hidden by noise or disturbances in the detectors. We have shown in [our recent paper](https://arxiv.org/abs/2206.00882) how a CNN can distinguish between real signals, Gaussian noise, and “line noise” (monochromatic disturbances in the data). We have shown that CNNs analyze the data more efficiently than traditional methods, but, like other methods, suffer a sensitivity loss when line noise is present.
