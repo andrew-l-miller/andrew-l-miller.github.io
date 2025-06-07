@@ -98,6 +98,11 @@ for entry in bib_database.entries:
     # Capitalize first letter of folder name
     folder_name = entry_id[0].upper() + entry_id[1:]
     out_dir = os.path.join(output_folder, folder_name)
+
+    if os.path.exists(out_dir):
+        print(f"⏭️ Skipping {folder_name} — already exists.")
+        continue
+
     os.makedirs(out_dir, exist_ok=True)
 
     # Write index.md
