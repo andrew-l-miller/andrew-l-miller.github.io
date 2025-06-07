@@ -39,7 +39,7 @@ url_video: ''
 # Publication name and optional abbreviated publication name.
 publication: "*Phys. Rev. Lett.* **131**(8) (2023) 081401"
 doi: "10.1103/PhysRevLett.131.081401"
-publication_short: "PRL"
+#publication_short: "PRL"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
