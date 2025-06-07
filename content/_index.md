@@ -52,9 +52,9 @@ sections:
         conditions:
           - field: new_preprint
             value: true
-  design:
-    view: article-grid
-    columns: 3
+    design:
+      view: article-grid
+      columns: 3
 #  - block: collection
 #    id: talks
 #    content:
