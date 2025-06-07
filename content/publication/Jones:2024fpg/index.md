@@ -8,7 +8,7 @@ authors:
   - Miller, Andrew L.
   - Wette, Karl
   - Piccinni, Ornella J.
-date: 2024-12-31
+date: 2025-01-01
 publication: "Phys. Rev. D"
 doi: "10.1103/PhysRevD.111.063028"
 url_doi: "https://doi.org/10.1103/PhysRevD.111.063028"
