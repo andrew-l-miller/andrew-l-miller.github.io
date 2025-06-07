@@ -42,6 +42,19 @@ sections:
     design:
       view: article-grid
       columns: 3
+  - block: collection
+    id: new-preprints
+    content:
+      title: New Pre-prints
+      filters:
+        folders:
+          - publication
+        conditions:
+          - field: new_preprint
+            value: true
+  design:
+    view: article-grid
+    columns: 3
 #  - block: collection
 #    id: talks
 #    content:

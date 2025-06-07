@@ -12,4 +12,5 @@ url_pdf: "https://arxiv.org/pdf/2503.02607.pdf"
 # summary: ""
 # tags: []
 # projects: []
+new_preprint: true
 ---
