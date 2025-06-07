@@ -4,11 +4,11 @@ authors:
   - Palomba, Cristiano
   - others
 date: 2019-01-01
-publication: "Phys. Rev. Lett."
+publication: "*Phys. Rev. Lett.* **123** (2019) 171101"
 doi: "10.1103/PhysRevLett.123.171101"
 url_doi: "https://doi.org/10.1103/PhysRevLett.123.171101"
 url_pdf: "https://arxiv.org/pdf/1909.08854.pdf"
-# generated_on: 2025-06-02T22:45:59.885783
+# generated_on: 2025-06-07T19:36:36.160012
 # featured: false
 # summary: ""
 # tags: []

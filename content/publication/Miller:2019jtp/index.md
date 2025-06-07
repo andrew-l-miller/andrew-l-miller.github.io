@@ -4,11 +4,11 @@ authors:
   - Miller, Andrew L.
   - others
 date: 2019-01-01
-publication: "Phys. Rev. D"
+publication: "*Phys. Rev. D* **100**(6) (2019) 062005"
 doi: "10.1103/PhysRevD.100.062005"
 url_doi: "https://doi.org/10.1103/PhysRevD.100.062005"
 url_pdf: "https://arxiv.org/pdf/1909.02262.pdf"
-# generated_on: 2025-06-02T22:45:59.885970
+# generated_on: 2025-06-07T19:36:36.160219
 # featured: false
 # summary: ""
 # tags: []

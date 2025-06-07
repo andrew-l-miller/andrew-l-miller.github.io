@@ -6,11 +6,11 @@ authors:
   - Amaral, M
   - Cumiskey, A
 date: 2014-01-01
-publication: "Atmospheric Chemistry & Physics"
+publication: "*Atmospheric Chemistry & Physics* **14**(22) (2014)"
 doi: ""
 url_doi: ""
 url_pdf: ""
-# generated_on: 2025-06-02T22:45:59.888196
+# generated_on: 2025-06-07T19:36:36.162825
 # featured: false
 # summary: ""
 # tags: []

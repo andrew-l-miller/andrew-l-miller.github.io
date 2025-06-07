@@ -5,11 +5,11 @@ authors:
   - Aggarwal, Nancy
   - others
 date: 2024-10-01
-publication: "Phys. Rev. D"
+publication: "*Phys. Rev. D* **110**(8) (2024) 082004"
 doi: "10.1103/PhysRevD.110.082004"
 url_doi: "https://doi.org/10.1103/PhysRevD.110.082004"
 url_pdf: "https://arxiv.org/pdf/2407.17052.pdf"
-# generated_on: 2025-06-02T22:45:59.877631
+# generated_on: 2025-06-07T19:36:36.151041
 # featured: false
 # summary: ""
 # tags: []
