@@ -218,7 +218,7 @@ awards:
     icon: datacamp
     summary: |
       Semester-long fellowship to pursue my PhD research at the Institute for Cosmic Ray Research in Japan.
-  - title: 'Graduate Research Fellowship
+  - title: 'Graduate Research Fellowship'
     date: '2015-04-01'
     awarder: University of Florida
     summary: |
