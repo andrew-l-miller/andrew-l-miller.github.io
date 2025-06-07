@@ -32,17 +32,6 @@ sections:
           position: center
           parallax: false
   - block: collection
-    id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 3
-  - block: collection
     id: new-preprints
     content:
       title: New Pre-prints
@@ -52,6 +41,17 @@ sections:
         conditions:
           - field: new_preprint
             value: true
+    design:
+      view: article-grid
+      columns: 3
+  - block: collection
+    id: papers
+    content:
+      title: Featured Publications
+      filters:
+        folders:
+          - publication
+        featured_only: true
     design:
       view: article-grid
       columns: 3
