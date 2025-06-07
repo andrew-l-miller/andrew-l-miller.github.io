@@ -6,6 +6,12 @@ from bibtexparser.bparser import BibTexParser
 bib_file = "/Users/andrewmiller/Desktop/h-index-calculation/europasscv_example.bib"
 output_folder = "content/publication"
 
+def format_author_name(name):
+    if ',' in name:
+        last, first = name.split(',', 1)
+        return first.strip() + " " + last.strip()
+    return name.strip()
+
 def format_title(title):
     title = title.strip()
     if title.startswith("{") and title.endswith("}"):
@@ -54,7 +60,14 @@ def bib_entry_to_markdown(entry):
     entry_id = entry['ID']
     title = format_title(entry.get("title", "No Title"))
 
-    authors = [a.strip() for a in entry.get("author", "").replace('\n', ' ').split(" and ")]
+    raw_authors = entry.get("author", "").replace('\n', ' ').split(" and ")
+    authors = [format_author_name(a) for a in raw_authors]
+
+    # Ensure your name matches exactly
+    authors = [
+        "Andrew L. Miller" if a.lower().replace('.', '').strip() in ["andrew l miller", "miller andrew l"] else a
+        for a in authors
+    ]
     author_yaml = "\n  - " + "\n  - ".join(authors)
 
     date_str = parse_date(entry)

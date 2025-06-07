@@ -1,14 +1,14 @@
 ---
 title: "Report of the Topical Group on Cosmic Probes of Fundamental Physics for for Snowmass 2021"
 authors:
-  - Adhikari, Rana X.
+  - Rana X. Adhikari
   - others
 date: 2022-09-01
 publication: ""
 doi: ""
 url_doi: ""
 url_pdf: "https://arxiv.org/pdf/2209.11726.pdf"
-# generated_on: 2025-06-07T19:50:51.086390
+# generated_on: 2025-06-07T19:59:26.248590
 # featured: false
 # summary: ""
 # tags: []

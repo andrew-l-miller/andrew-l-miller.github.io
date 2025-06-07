@@ -1,14 +1,14 @@
 ---
 title: "Comparison of methods for the detection of gravitational waves from unknown neutron stars"
 authors:
-  - Walsh, Sinead
+  - Sinead Walsh
   - others
 date: 2016-01-01
 publication: "*Phys. Rev. D* **94**(12) 124010"
 doi: "10.1103/PhysRevD.94.124010"
 url_doi: "https://doi.org/10.1103/PhysRevD.94.124010"
 url_pdf: "https://arxiv.org/pdf/1606.00660.pdf"
-# generated_on: 2025-06-07T19:50:51.094973
+# generated_on: 2025-06-07T19:59:26.256655
 # featured: false
 # summary: ""
 # tags: []
