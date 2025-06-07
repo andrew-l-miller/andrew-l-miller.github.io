@@ -193,21 +193,21 @@ awards:
     url: https://www.frs-fnrs.be/docs/Resultats/FRS-FNRS_Candidatures_retenues_2022.pdf
     date: '2022-06-28'
     awarder: Fonds de la Recherche Scientifique (Fund for Scientific Research)
-    icon: coursera
+#    icon: coursera
     summary: | 
-      3-year fellowship awarded by FNRS the National science funding agency in Belgium. Extremely competitive
+      3-year fellowship awarded by FNRS the National science funding agency in Belgium.
   - title: European Space Agency Archival Research Fellowship
     url: https://www.cosmos.esa.int/web/esdc/visitor-programme
     date: '2022-01-10'
     awarder: European Space Agency
-    icon: coursera
+#    icon: coursera
     summary: |
       Awarded to support archival research of LISA Pathfinder data at European Space Astronomy Center (ESAC) in Madrid, Spain.
   - title: FSR postdoctoral fellowship
 #    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2021-03-01'
     awarder: UCLouvain
-    icon: edx
+#    icon: edx
     summary: |
       awarded a fellowship from the Special Research Fund (FSR) to support research in any discipline 
   - title: 'Institute of High Energy Physics Fellowship'
