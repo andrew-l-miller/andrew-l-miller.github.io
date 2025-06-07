@@ -196,30 +196,38 @@ awards:
     icon: coursera
     summary: | 
       3-year fellowship awarded by FNRS the National science funding agency in Belgium. Extremely competitive
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
+  - title: European Space Agency Archival Research Fellowship
+    url: https://www.cosmos.esa.int/web/esdc/visitor-programme
+    date: '2022-01-10'
+    awarder: European Space Agency
+    icon: coursera
+    summary: |
+      Awarded to support archival research of LISA Pathfinder data at European Space Astronomy Center (ESAC) in Madrid, Spain.
+  - title: FSR postdoctoral fellowship
+#    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+    date: '2021-03-01'
+    awarder: UCLouvain
     icon: edx
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
+      awarded a fellowship from the Special Research Fund (FSR) to support research in any discipline 
+  - title: 'Institute of High Energy Physics Fellowship'
+#    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
+#    certificate_url: https://www.datacamp.com
+    date: '2019-08-01'
+    awarder: University of Florida
     icon: datacamp
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
-
+      Semester-long fellowship to pursue my PhD research at the Institute for Cosmic Ray Research in Japan.
+  - title: 'Graduate Research Fellowship
+    date: '2015-04-01'
+    awarder: University of Florida
+    summary: |
+      4-year fellowship to pursue research for my PhD in any discipline.
 ---
 
 ## About Me
 
 Andrew L. Miller is a postdoctoral scholar at the National Institute for Subatomic Physics (Nikhef) and Utrecht University, in the Netherlands. His research interests include the detection of gravitational waves from neutron stars, primordial black holes binaries and particle dark matter. He is a member of the [LIGO-Virgo-KAGRA collaborations](https://www.ligo.caltech.edu/).
 
-h-index: 25; citations: 2805 (excludes LIGO papers to which I did not contribute)
+h-index: 26; citations: 3314 (excludes LIGO papers to which I did not contribute)
 {style="text-align: justify;"}
