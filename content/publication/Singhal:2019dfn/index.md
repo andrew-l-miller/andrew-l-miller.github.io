@@ -4,11 +4,11 @@ authors:
   - Singhal, A.
   - others
 date: 2019-01-01
-publication: "*Class. Quant. Grav.* **36**(20) (2019) 205015"
+publication: "*Class. Quant. Grav.* **36**(20) 205015"
 doi: "10.1088/1361-6382/ab4367"
 url_doi: "https://doi.org/10.1088/1361-6382/ab4367"
 url_pdf: ""
-# generated_on: 2025-06-07T19:36:36.160436
+# generated_on: 2025-06-07T19:50:51.093392
 # featured: false
 # summary: ""
 # tags: []

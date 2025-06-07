@@ -4,11 +4,11 @@ authors:
   - Romero-Shaw, I. M.
   - others
 date: 2020-01-01
-publication: "*Mon. Not. Roy. Astron. Soc.* **499**(3) (2020) 3295--3319"
+publication: "*Mon. Not. Roy. Astron. Soc.* **499**(3) 3295--3319"
 doi: "10.1093/mnras/staa2850"
 url_doi: "https://doi.org/10.1093/mnras/staa2850"
 url_pdf: "https://arxiv.org/pdf/2006.00714.pdf"
-# generated_on: 2025-06-07T19:36:36.159139
+# generated_on: 2025-06-07T19:50:51.092291
 # featured: false
 # summary: ""
 # tags: []

@@ -6,11 +6,11 @@ authors:
   - Clesse, S\'ebastien
   - De Lillo, Federico
 date: 2022-01-01
-publication: "*Phys. Rev. D* **105**(6) (2022) 062008"
+publication: "*Phys. Rev. D* **105**(6) 062008"
 doi: "10.1103/PhysRevD.105.062008"
 url_doi: "https://doi.org/10.1103/PhysRevD.105.062008"
 url_pdf: "https://arxiv.org/pdf/2110.06188.pdf"
-# generated_on: 2025-06-07T19:36:36.156526
+# generated_on: 2025-06-07T19:50:51.088286
 # featured: false
 # summary: ""
 # tags: []

@@ -6,11 +6,11 @@ authors:
   - Sieniawska, Magdalena
   - Tanaka, Takahiro
 date: 2022-07-01
-publication: "*Phys. Rev. D* **106**(2) (2022) 024025"
+publication: "*Phys. Rev. D* **106**(2) 024025"
 doi: "10.1103/PhysRevD.106.024025"
 url_doi: "https://doi.org/10.1103/PhysRevD.106.024025"
 url_pdf: "https://arxiv.org/pdf/2206.00882.pdf"
-# generated_on: 2025-06-07T19:36:36.154763
+# generated_on: 2025-06-07T19:50:51.086693
 # featured: false
 # summary: ""
 # tags: []

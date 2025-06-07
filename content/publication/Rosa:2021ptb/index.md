@@ -12,11 +12,11 @@ authors:
   - Pierini, Lorenzo
   - Regimbau, Tania
 date: 2021-01-01
-publication: "*Universe* **7**(7) (2021) 218"
+publication: "*Universe* **7**(7) 218"
 doi: "10.3390/universe7070218"
 url_doi: "https://doi.org/10.3390/universe7070218"
 url_pdf: ""
-# generated_on: 2025-06-07T19:36:36.157181
+# generated_on: 2025-06-07T19:50:51.088863
 # featured: false
 # summary: ""
 # tags: []

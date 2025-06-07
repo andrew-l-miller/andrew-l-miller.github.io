@@ -4,11 +4,11 @@ authors:
   - Abbott, R.
   - others
 date: 2021-01-01
-publication: "*Phys. Rev. D* **104**(2) (2021) 022005"
+publication: "*Phys. Rev. D* **104**(2) 022005"
 doi: "10.1103/PhysRevD.104.022005"
 url_doi: "https://doi.org/10.1103/PhysRevD.104.022005"
 url_pdf: "https://arxiv.org/pdf/2103.08520.pdf"
-# generated_on: 2025-06-07T19:36:36.157412
+# generated_on: 2025-06-07T19:50:51.090657
 # featured: false
 # summary: ""
 # tags: []

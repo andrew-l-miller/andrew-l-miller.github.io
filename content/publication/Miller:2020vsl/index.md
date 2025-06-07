@@ -4,11 +4,11 @@ authors:
   - Miller, Andrew L.
   - others
 date: 2021-01-01
-publication: "*Phys. Rev. D* **103**(10) (2021) 103002"
+publication: "*Phys. Rev. D* **103**(10) 103002"
 doi: ""
 url_doi: ""
 url_pdf: "https://arxiv.org/pdf/2010.01925.pdf"
-# generated_on: 2025-06-07T19:36:36.158062
+# generated_on: 2025-06-07T19:50:51.091225
 # featured: false
 # summary: ""
 # tags: []

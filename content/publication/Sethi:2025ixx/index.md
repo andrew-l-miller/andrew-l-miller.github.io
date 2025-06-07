@@ -5,11 +5,11 @@ authors:
   - Miller, Andrew L.
   - Caudill, Sarah
 date: 2025-05-01
-publication: "*{59th Rencontres de Moriond on Gravitation}* (2025)"
+publication: "*{59th Rencontres de Moriond on Gravitation}*"
 doi: ""
 url_doi: ""
 url_pdf: "https://arxiv.org/pdf/2505.05546.pdf"
-# generated_on: 2025-06-07T19:36:36.153229
+# generated_on: 2025-06-07T19:50:51.085133
 # featured: false
 # summary: ""
 # tags: []

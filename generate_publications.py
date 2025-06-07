@@ -7,7 +7,6 @@ bib_file = "/Users/andrewmiller/Desktop/h-index-calculation/europasscv_example.b
 output_folder = "content/publication"
 
 def format_title(title):
-    # Strip wrapping braces or quotes
     title = title.strip()
     if title.startswith("{") and title.endswith("}"):
         title = title[1:-1]
@@ -60,23 +59,20 @@ def bib_entry_to_markdown(entry):
 
     date_str = parse_date(entry)
 
-    # Construct full publication string
     journal = entry.get("journal", "") or entry.get("booktitle", "")
     journal = journal.replace(r"\&", "&").strip()
     volume = entry.get("volume", "").strip()
     number = entry.get("number", "").strip()
-    year = entry.get("year", "").strip()
     pages = entry.get("pages", "").strip()
 
     publication_parts = [f"*{journal}*"] if journal else []
     if volume:
-        publication_parts.append(f"**{volume}**")
-    if number:
-        publication_parts[-1] += f"({number})"
-    if year:
-        publication_parts.append(f"({year})")
+        vol_str = f"**{volume}**"
+        if number:
+            vol_str += f"({number})"
+        publication_parts.append(vol_str)
     if pages:
-        publication_parts.append(f"{pages}")
+        publication_parts.append(pages)
 
     publication = " ".join(publication_parts)
 
@@ -104,74 +100,47 @@ url_pdf: "{url_pdf}"
 """
     return entry_id, yaml
 
+def generate_publication_pages(overwrite=False):
+    parser = BibTexParser(common_strings=True)
+    with open(bib_file) as bibtex_file:
+        bib_database = bibtexparser.load(bibtex_file, parser=parser)
 
-# def bib_entry_to_markdown(entry):
-#     entry_id = entry['ID']
-#     title = format_title(entry.get("title", "No Title"))
+    for entry in bib_database.entries:
+        entry_id, content = bib_entry_to_markdown(entry)
 
-#     authors = [a.strip() for a in entry.get("author", "").replace('\n', ' ').split(" and ")]
-#     author_yaml = "\n  - " + "\n  - ".join(authors)
+        folder_name = entry_id[0].upper() + entry_id[1:]
+        out_dir = os.path.join(output_folder, folder_name)
 
-#     date_str = parse_date(entry)
+        os.makedirs(out_dir, exist_ok=True)
 
-#     publication = entry.get("journal", "") or entry.get("booktitle", "")
-#     publication = publication.replace(r"\&", "&")
+        filepath = os.path.join(out_dir, "index.md")
+        cite_path = os.path.join(out_dir, "cite.bib")
 
-#     doi = entry.get("doi", "").strip()
-#     url_doi = f"https://doi.org/{doi}" if doi else ""
+        if not overwrite and os.path.exists(filepath):
+            print(f"⏭️ Skipping {folder_name} — already exists.")
+            continue
 
-#     arxiv_id = get_case_insensitive(entry, "eprint").strip()
-#     archive_prefix = get_case_insensitive(entry, "archivePrefix").strip().lower()
-#     url_pdf = f"https://arxiv.org/pdf/{arxiv_id}.pdf" if archive_prefix == "arxiv" and arxiv_id else ""
+        # Write index.md
+        with open(filepath, "w") as f:
+            f.write(content)
+        print(f"📄 Writing {filepath}")
 
-#     yaml = f"""---
-# title: {title}
-# authors:{author_yaml}
-# date: {date_str}
-# publication: "{publication}"
-# doi: "{doi}"
-# url_doi: "{url_doi}"
-# url_pdf: "{url_pdf}"
-# # generated_on: {datetime.now().isoformat()}
-# # featured: false
-# # summary: ""
-# # tags: []
-# # projects: []
-# ---
-# """
-#     return entry_id, yaml
+        # Write cite.bib
+        with open(cite_path, "w") as f:
+            f.write(f"@article{{{entry['ID']},\n")
+            for key, value in entry.items():
+                if key != 'ID':
+                    f.write(f"  {key} = {{{value}}},\n")
+            f.write("}\n")
 
-# Load with common strings enabled
-parser = BibTexParser(common_strings=True)
-with open(bib_file) as bibtex_file:
-    bib_database = bibtexparser.load(bibtex_file, parser=parser)
+    print("✅ All publications generated with titles cleaned, arXiv links, and cite.bib files.")
 
-for entry in bib_database.entries:
-    entry_id, content = bib_entry_to_markdown(entry)
 
-    # Capitalize first letter of folder name
-    folder_name = entry_id[0].upper() + entry_id[1:]
-    out_dir = os.path.join(output_folder, folder_name)
+if __name__ == "__main__":
+    import argparse
 
-    if os.path.exists(out_dir):
-        print(f"⏭️ Skipping {folder_name} — already exists.")
-        continue
+    parser = argparse.ArgumentParser(description="Generate publication folders and index.md files from a .bib file.")
+    parser.add_argument("--overwrite", action="store_true", help="Overwrite existing publication folders.")
+    args = parser.parse_args()
 
-    os.makedirs(out_dir, exist_ok=True)
-
-    # Write index.md
-    filepath = os.path.join(out_dir, "index.md")
-    with open(filepath, "w") as f:
-        f.write(content)
-    print(f"📄 Writing {filepath}")
-
-    # Write cite.bib
-    cite_path = os.path.join(out_dir, "cite.bib")
-    with open(cite_path, "w") as f:
-        f.write(f"@article{{{entry['ID']},\n")
-        for key, value in entry.items():
-            if key != 'ID':
-                f.write(f"  {key} = {{{value}}},\n")
-        f.write("}\n")
-
-print("✅ All publications generated with titles cleaned, arXiv links, and cite.bib files.")
+    generate_publication_pages(overwrite=args.overwrite)

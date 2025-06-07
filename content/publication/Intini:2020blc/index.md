@@ -11,11 +11,11 @@ authors:
   - Palomba, C.
   - Piccinni, O.
 date: 2020-01-01
-publication: "*Class. Quant. Grav.* **37**(22) (2020) 225007"
+publication: "*Class. Quant. Grav.* **37**(22) 225007"
 doi: "10.1088/1361-6382/abac43"
 url_doi: "https://doi.org/10.1088/1361-6382/abac43"
 url_pdf: ""
-# generated_on: 2025-06-07T19:36:36.158927
+# generated_on: 2025-06-07T19:50:51.092119
 # featured: false
 # summary: ""
 # tags: []

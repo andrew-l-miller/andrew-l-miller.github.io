@@ -4,11 +4,11 @@ authors:
   - Miller, Andrew L.
   - Zhao, Yue
 date: 2023-09-01
-publication: "*Phys. Rev. Lett.* **131**(8) (2023) 081401"
+publication: "*Phys. Rev. Lett.* **131**(8) 081401"
 doi: "10.1103/PhysRevLett.131.081401"
 url_doi: "https://doi.org/10.1103/PhysRevLett.131.081401"
 url_pdf: "https://arxiv.org/pdf/2301.10239.pdf"
-# generated_on: 2025-06-07T19:36:36.152570
+# generated_on: 2025-06-07T19:50:51.084560
 # featured: false
 # summary: ""
 # tags: []

@@ -4,11 +4,11 @@ authors:
   - Miller, Andrew L.
   - others
 date: 2020-08-01
-publication: "*Letter of Intent for Snowmass 2021* (2020)"
+publication: "*Letter of Intent for Snowmass 2021*"
 doi: ""
 url_doi: ""
 url_pdf: ""
-# generated_on: 2025-06-07T19:36:36.158304
+# generated_on: 2025-06-07T19:50:51.091576
 # featured: false
 # summary: ""
 # tags: []

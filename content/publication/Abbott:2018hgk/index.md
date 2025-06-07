@@ -4,11 +4,11 @@ authors:
   - Abbott, B.P.
   - others
 date: 2019-01-01
-publication: "*Astrophys. J.* **875**(2) (2019) 160"
+publication: "*Astrophys. J.* **875**(2) 160"
 doi: "10.3847/1538-4357/ab0f3d"
 url_doi: "https://doi.org/10.3847/1538-4357/ab0f3d"
 url_pdf: "https://arxiv.org/pdf/1810.02581.pdf"
-# generated_on: 2025-06-07T19:36:36.161094
+# generated_on: 2025-06-07T19:50:51.093939
 # featured: false
 # summary: ""
 # tags: []

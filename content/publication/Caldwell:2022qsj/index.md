@@ -4,11 +4,11 @@ authors:
   - Caldwell, Robert
   - others
 date: 2022-11-01
-publication: "*Gen. Rel. Grav.* **54**(12) (2022) 156"
+publication: "*Gen. Rel. Grav.* **54**(12) 156"
 doi: "10.1007/s10714-022-03027-x"
 url_doi: "https://doi.org/10.1007/s10714-022-03027-x"
 url_pdf: "https://arxiv.org/pdf/2203.07972.pdf"
-# generated_on: 2025-06-07T19:36:36.154324
+# generated_on: 2025-06-07T19:50:51.086216
 # featured: false
 # summary: ""
 # tags: []

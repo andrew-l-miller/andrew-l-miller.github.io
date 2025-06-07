@@ -12,11 +12,11 @@ authors:
   - Piccinni, O.J.
   - Singhal, A.
 date: 2017-01-01
-publication: "*Class. Quant. Grav.* **34**(13) (2017) 135007"
+publication: "*Class. Quant. Grav.* **34**(13) 135007"
 doi: "10.1088/1361-6382/aa744f"
 url_doi: "https://doi.org/10.1088/1361-6382/aa744f"
 url_pdf: "https://arxiv.org/pdf/1703.03493.pdf"
-# generated_on: 2025-06-07T19:36:36.162192
+# generated_on: 2025-06-07T19:50:51.094808
 # featured: false
 # summary: ""
 # tags: []
