@@ -6,25 +6,22 @@
 main:
   - name: Bio
     url: /
-    weight: 10
-  - name: Featured Publications
-    url: /#papers
-    weight: 15
+    weight: 1
   - name: All Publications
     url: /publication/
-    weight: 12
+    weight: 7
   - name: Tutorials
     url: /tutorials/
-    weight: 13
+    weight: 6
   - name: Projects
     url: /projects/
-    weight: 30
+    weight: 3
   - name: Talks
     url: /event/
-    weight: 28
+    weight: 4
   - name: Repositories
     url: /repos/
-    weight: 29
+    weight: 5
   - name: Experience
     url: /experience/
-    weight: 28
+    weight: 2
