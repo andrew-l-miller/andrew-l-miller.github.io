@@ -7,7 +7,7 @@ authors:
   - S. Frasca
   - G. Intini
   - P. Leaci
-  - A. Miller
+  - admin
   - C. Palomba
   - O.J. Piccinni
   - A. Singhal
@@ -16,7 +16,7 @@ publication: "*Class. Quant. Grav.* **34**(13) 135007"
 doi: "10.1088/1361-6382/aa744f"
 url_doi: "https://doi.org/10.1088/1361-6382/aa744f"
 url_pdf: "https://arxiv.org/pdf/1703.03493.pdf"
-# generated_on: 2025-06-07T19:59:26.256491
+# generated_on: 2025-06-07T20:53:46.729494
 # featured: false
 # summary: ""
 # tags: []

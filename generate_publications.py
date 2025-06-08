@@ -63,12 +63,27 @@ def bib_entry_to_markdown(entry):
     raw_authors = entry.get("author", "").replace('\n', ' ').split(" and ")
     authors = [format_author_name(a) for a in raw_authors]
 
+    
+
     # Ensure your name matches exactly
     authors = [
-        "Andrew L. Miller" if a.lower().replace('.', '').strip() in ["andrew l miller", "miller andrew l"] else a
+        "Andrew L. Miller" if a.lower().replace('.', '').strip() in ["andrew l miller", "miller andrew l", "A. Miller"] else a
         for a in authors
     ]
-    author_yaml = "\n  - " + "\n  - ".join(authors)
+    def is_self(name):
+        name_clean = name.lower().replace(".", "").strip()
+        return any(variant in name_clean for variant in [
+            "andrew l miller",
+            "miller andrew l",
+            "a miller",
+            "miller a"
+        ])
+
+    author_yaml = "\n  - " + "\n  - ".join(
+        "admin" if is_self(a) else a
+        for a in authors
+    )
+
 
     date_str = parse_date(entry)
 
@@ -142,8 +157,9 @@ def generate_publication_pages(overwrite=False):
         with open(cite_path, "w") as f:
             f.write(f"@article{{{entry['ID']},\n")
             for key, value in entry.items():
-                if key != 'ID':
+                if key.lower() not in ['id', 'addendum']:
                     f.write(f"  {key} = {{{value}}},\n")
+
             f.write("}\n")
 
     print("✅ All publications generated with titles cleaned, arXiv links, and cite.bib files.")

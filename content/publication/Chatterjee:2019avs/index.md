@@ -5,7 +5,7 @@ authors:
   - Shaon Ghosh
   - Patrick R. Brady
   - Shasvath J. Kapadia
-  - Andrew L. Miller
+  - admin
   - Samaya Nissanke
   - Francesco Pannarale
 date: 2020-01-01
@@ -13,7 +13,7 @@ publication: "*Astrophys. J.* **896**(1) 54"
 doi: "10.3847/1538-4357/ab8dbe"
 url_doi: "https://doi.org/10.3847/1538-4357/ab8dbe"
 url_pdf: "https://arxiv.org/pdf/1911.00116.pdf"
-# generated_on: 2025-06-07T19:59:26.253968
+# generated_on: 2025-06-07T20:53:46.727145
 # featured: false
 # summary: ""
 # tags: []

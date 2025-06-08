@@ -1,14 +1,14 @@
 ---
 title: "Probing new light gauge bosons with gravitational-wave interferometers using an adapted semi-coherent method"
 authors:
-  - Andrew L. Miller
+  - admin
   - others
 date: 2021-01-01
 publication: "*Phys. Rev. D* **103**(10) 103002"
 doi: ""
 url_doi: ""
 url_pdf: "https://arxiv.org/pdf/2010.01925.pdf"
-# generated_on: 2025-06-07T19:59:26.252595
+# generated_on: 2025-06-07T20:53:46.726000
 # featured: false
 # summary: ""
 # tags: []

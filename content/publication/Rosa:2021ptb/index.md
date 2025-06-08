@@ -16,7 +16,7 @@ publication: "*Universe* **7**(7) 218"
 doi: "10.3390/universe7070218"
 url_doi: "https://doi.org/10.3390/universe7070218"
 url_pdf: ""
-# generated_on: 2025-06-07T19:59:26.251903
+# generated_on: 2025-06-07T20:53:46.725228
 # featured: false
 # summary: ""
 # tags: []

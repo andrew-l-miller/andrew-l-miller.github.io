@@ -1,14 +1,14 @@
 ---
 title: "Probing the Pulsar Explanation of the Galactic-Center GeV Excess Using Continuous Gravitational-Wave Searches"
 authors:
-  - Andrew L. Miller
+  - admin
   - Yue Zhao
 date: 2023-09-01
 publication: "*Phys. Rev. Lett.* **131**(8) 081401"
 doi: "10.1103/PhysRevLett.131.081401"
 url_doi: "https://doi.org/10.1103/PhysRevLett.131.081401"
 url_pdf: "https://arxiv.org/pdf/2301.10239.pdf"
-# generated_on: 2025-06-07T19:59:26.246117
+# generated_on: 2025-06-07T20:53:46.717031
 # featured: false
 # summary: ""
 # tags: []

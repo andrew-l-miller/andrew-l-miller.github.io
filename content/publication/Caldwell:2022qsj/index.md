@@ -8,7 +8,7 @@ publication: "*Gen. Rel. Grav.* **54**(12) 156"
 doi: "10.1007/s10714-022-03027-x"
 url_doi: "https://doi.org/10.1007/s10714-022-03027-x"
 url_pdf: "https://arxiv.org/pdf/2203.07972.pdf"
-# generated_on: 2025-06-07T19:59:26.248391
+# generated_on: 2025-06-07T20:53:46.718502
 # featured: false
 # summary: ""
 # tags: []

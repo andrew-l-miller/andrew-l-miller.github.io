@@ -5,14 +5,14 @@ authors:
   - Jishnu Suresh
   - Antoine Depasse
   - Magdalena Sieniawska
-  - Andrew L. Miller
+  - admin
   - Giacomo Bruno
 date: 2023-03-01
 publication: "*Phys. Rev. D* **107**(10) 102001"
 doi: "10.1103/PhysRevD.107.102001"
 url_doi: "https://doi.org/10.1103/PhysRevD.107.102001"
 url_pdf: "https://arxiv.org/pdf/2211.16857.pdf"
-# generated_on: 2025-06-07T19:59:26.248000
+# generated_on: 2025-06-07T20:53:46.718134
 # featured: false
 # summary: ""
 # tags: []

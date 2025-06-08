@@ -8,7 +8,7 @@ publication: "*Class. Quant. Grav.* **41**(24) 245001"
 doi: "10.1088/1361-6382/ad7b99"
 url_doi: "https://doi.org/10.1088/1361-6382/ad7b99"
 url_pdf: "https://arxiv.org/pdf/2307.10421.pdf"
-# generated_on: 2025-06-07T19:59:26.244400
+# generated_on: 2025-06-07T20:53:46.715032
 # featured: false
 # summary: ""
 # tags: []

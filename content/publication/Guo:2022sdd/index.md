@@ -2,13 +2,13 @@
 title: "Searching for Mini Extreme Mass Ratio Inspirals with Gravitational-Wave Detectors"
 authors:
   - Huai-Ke Guo
-  - Andrew L. Miller
+  - admin
 date: 2022-05-01
 publication: ""
 doi: ""
 url_doi: ""
 url_pdf: "https://arxiv.org/pdf/2205.10359.pdf"
-# generated_on: 2025-06-07T19:59:26.249499
+# generated_on: 2025-06-07T20:53:46.719232
 # featured: false
 # summary: ""
 # tags: []

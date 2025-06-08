@@ -8,7 +8,7 @@ publication: "*Prog. Part. Nucl. Phys.* **125** 103948"
 doi: "10.1016/j.ppnp.2022.103948"
 url_doi: "https://doi.org/10.1016/j.ppnp.2022.103948"
 url_pdf: "https://arxiv.org/pdf/2111.05659.pdf"
-# generated_on: 2025-06-07T19:59:26.251623
+# generated_on: 2025-06-07T20:53:46.720779
 # featured: false
 # summary: ""
 # tags: []
