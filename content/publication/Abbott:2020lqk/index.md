@@ -8,7 +8,7 @@ publication: "*Astrophys. J. Lett.* **902**(1) L21"
 doi: "10.3847/2041-8213/abb655"
 url_doi: "https://doi.org/10.3847/2041-8213/abb655"
 url_pdf: "https://arxiv.org/pdf/2007.14251.pdf"
-# generated_on: 2025-06-07T20:53:46.726572
+# generated_on: 2025-06-07T21:13:27.384042
 # featured: false
 # summary: ""
 # tags: []

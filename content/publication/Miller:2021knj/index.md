@@ -10,7 +10,7 @@ publication: "*Phys. Rev. D* **105**(6) 062008"
 doi: "10.1103/PhysRevD.105.062008"
 url_doi: "https://doi.org/10.1103/PhysRevD.105.062008"
 url_pdf: "https://arxiv.org/pdf/2110.06188.pdf"
-# generated_on: 2025-06-07T20:53:46.720289
+# generated_on: 2025-06-07T21:13:27.381850
 # featured: false
 # summary: ""
 # tags: []

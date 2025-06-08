@@ -11,7 +11,7 @@ publication: "*Phys. Rev. D* **99**(2) 024024"
 doi: "10.1103/PhysRevD.99.024024"
 url_doi: "https://doi.org/10.1103/PhysRevD.99.024024"
 url_pdf: "https://arxiv.org/pdf/1508.02064.pdf"
-# generated_on: 2025-06-07T20:53:46.728376
+# generated_on: 2025-06-07T21:13:27.385872
 # featured: false
 # summary: ""
 # tags: []

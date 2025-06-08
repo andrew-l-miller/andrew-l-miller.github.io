@@ -8,7 +8,7 @@ publication: "*Phys. Rev. D* **100**(6) 062005"
 doi: "10.1103/PhysRevD.100.062005"
 url_doi: "https://doi.org/10.1103/PhysRevD.100.062005"
 url_pdf: "https://arxiv.org/pdf/1909.02262.pdf"
-# generated_on: 2025-06-07T20:53:46.727878
+# generated_on: 2025-06-07T21:13:27.385382
 # featured: false
 # summary: ""
 # tags: []

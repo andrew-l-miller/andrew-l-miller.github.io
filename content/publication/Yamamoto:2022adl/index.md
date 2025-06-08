@@ -10,7 +10,7 @@ publication: "*Phys. Rev. D* **106**(2) 024025"
 doi: "10.1103/PhysRevD.106.024025"
 url_doi: "https://doi.org/10.1103/PhysRevD.106.024025"
 url_pdf: "https://arxiv.org/pdf/2206.00882.pdf"
-# generated_on: 2025-06-07T20:53:46.718850
+# generated_on: 2025-06-07T21:13:27.380414
 # featured: false
 # summary: ""
 # tags: []

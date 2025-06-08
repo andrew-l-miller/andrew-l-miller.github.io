@@ -9,7 +9,7 @@ publication: "*Astrophys. J. Lett.* **913** L27"
 doi: "10.3847/2041-8213/abffcd"
 url_doi: "https://doi.org/10.3847/2041-8213/abffcd"
 url_pdf: "https://arxiv.org/pdf/2012.12926.pdf"
-# generated_on: 2025-06-07T20:53:46.725805
+# generated_on: 2025-06-07T21:13:27.383216
 # featured: false
 # summary: ""
 # tags: []

@@ -8,7 +8,7 @@ publication: "*Phys. Rev. D* **105** 102001"
 doi: "10.1103/PhysRevD.105.102001"
 url_doi: "https://doi.org/10.1103/PhysRevD.105.102001"
 url_pdf: "https://arxiv.org/pdf/2111.15507.pdf"
-# generated_on: 2025-06-07T20:53:46.720114
+# generated_on: 2025-06-07T21:13:27.381682
 # featured: false
 # summary: ""
 # tags: []

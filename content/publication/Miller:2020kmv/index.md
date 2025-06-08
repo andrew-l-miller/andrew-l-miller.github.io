@@ -12,7 +12,7 @@ publication: "*Phys. Dark Univ.* **32** 100836"
 doi: "10.1016/j.dark.2021.100836"
 url_doi: "https://doi.org/10.1016/j.dark.2021.100836"
 url_pdf: "https://arxiv.org/pdf/2012.12983.pdf"
-# generated_on: 2025-06-07T20:53:46.725620
+# generated_on: 2025-06-07T21:13:27.383042
 # featured: false
 # summary: ""
 # tags: []

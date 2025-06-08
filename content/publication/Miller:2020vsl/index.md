@@ -8,7 +8,7 @@ publication: "*Phys. Rev. D* **103**(10) 103002"
 doi: ""
 url_doi: ""
 url_pdf: "https://arxiv.org/pdf/2010.01925.pdf"
-# generated_on: 2025-06-07T20:53:46.726000
+# generated_on: 2025-06-07T21:13:27.383426
 # featured: false
 # summary: ""
 # tags: []

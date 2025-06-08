@@ -15,7 +15,7 @@ publication: "*Class. Quant. Grav.* **37**(22) 225007"
 doi: "10.1088/1361-6382/abac43"
 url_doi: "https://doi.org/10.1088/1361-6382/abac43"
 url_pdf: ""
-# generated_on: 2025-06-07T20:53:46.726769
+# generated_on: 2025-06-07T21:13:27.384223
 # featured: false
 # summary: ""
 # tags: []

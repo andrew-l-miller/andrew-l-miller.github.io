@@ -16,7 +16,7 @@ publication: "*Class. Quant. Grav.* **36**(1) 015008"
 doi: "10.1088/1361-6382/aaefb5"
 url_doi: "https://doi.org/10.1088/1361-6382/aaefb5"
 url_pdf: "https://arxiv.org/pdf/1811.04730.pdf"
-# generated_on: 2025-06-07T20:53:46.729307
+# generated_on: 2025-06-07T21:13:27.386986
 # featured: false
 # summary: ""
 # tags: []

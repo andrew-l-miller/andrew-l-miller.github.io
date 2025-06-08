@@ -9,7 +9,7 @@ publication: "*Phys. Rev. D* **109**(4) 043021"
 doi: "10.1103/PhysRevD.109.043021"
 url_doi: "https://doi.org/10.1103/PhysRevD.109.043021"
 url_pdf: "https://arxiv.org/pdf/2309.15808.pdf"
-# generated_on: 2025-06-07T20:53:46.716629
+# generated_on: 2025-06-07T21:13:27.377964
 # featured: false
 # summary: ""
 # tags: []
