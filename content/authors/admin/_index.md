@@ -215,7 +215,7 @@ awards:
 #    certificate_url: https://www.datacamp.com
     date: '2019-08-01'
     awarder: University of Florida
-    icon: datacamp
+#    icon: datacamp
     summary: |
       Semester-long fellowship to pursue my PhD research at the Institute for Cosmic Ray Research in Japan.
   - title: 'Graduate Research Fellowship'
