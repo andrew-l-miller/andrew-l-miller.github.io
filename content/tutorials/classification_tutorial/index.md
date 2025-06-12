@@ -1,5 +1,5 @@
 ---
-title: Machine Learning Tutorial: Classifying Gravitational-Wave Signals
+title: Machine Learning Tutorial on Classifying Gravitational-Wave Signals
 subtitle: Learn about building convolutional neural networks to correctly classify spectrograms as containing a gravitational-wave signal or just noise.
 
 # Summary for listings and search engines
