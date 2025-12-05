@@ -115,6 +115,13 @@ education:
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
+  - position: Associate Professor
+    company_name: ICTP-AP / University Chinese Academy of Sciences (UCAS)
+    company_url: https://www.ictp-ap.org/
+    company_logo: ''
+    date_start: 2025-12-01
+    date_end: ''
+
   - position: Postdoctoral Scholar
     company_name: Nikhef / Utrecht University
     company_url: 'https://www.nikhef.nl/en/'
