@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: Selected Projects
-      text: Here is a selection of projects that I have worked on over the years. Please contact me at [amiller@nikhef.nl](mailto:amiller@nikhef.nl) if you'd like to get involved!
+      text: Here is a selection of projects that I have worked on over the years. Please contact me at [andrewlawrence.miller@ligo.org](mailto:andrewlawrence.miller@ligo.org) if you'd like to get involved!
       filters:
         folders:
           - project
