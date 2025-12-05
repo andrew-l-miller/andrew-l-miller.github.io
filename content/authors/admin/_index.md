@@ -20,17 +20,17 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Postdoctoral Researcher
+role: Associate Professor
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name:  National Institute for Subatomic Physics (Nikhef)
-    url: https://www.nikhef.nl/en/
+  - name:  International Center for Theoretical Physics, Asia Pacific (ICTP-AP)
+    url: https://www.ictp-ap.org/
 
 profiles:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:amiller@nikhef.nl'
+    link: 'mailto:andrewlawrence.miller@ligo.org'
 #    link: '/#contact'
 #  - icon: twitter
 #    icon_pack: fab
@@ -120,7 +120,7 @@ work:
     company_url: 'https://www.nikhef.nl/en/'
     company_logo: ''
     date_start: 2023-01-01
-    date_end: ''
+    date_end: 2025-11-31
     summary: |2-
       Responsibilities include:
       - Anomaly detection and machine learning methods to classify different types of glitches in GW detectors.
@@ -227,7 +227,7 @@ awards:
 
 ## About Me
 
-Andrew L. Miller is a postdoctoral scholar at the National Institute for Subatomic Physics (Nikhef) and Utrecht University, in the Netherlands. His research interests include the detection of gravitational waves from neutron stars, primordial black holes binaries and particle dark matter. He is a member of the [LIGO-Virgo-KAGRA collaborations](https://www.ligo.caltech.edu/).
+Andrew L. Miller is an associate professor at the International Center for Theoretical Physics, Asia Pacific (ICTP-AP), housed at the University Chinese Academy of Sciences (UCAS), in Beijing, China. His research interests include the detection of gravitational waves from neutron stars, primordial black holes binaries and particle dark matter. He is a member of the [LIGO-Virgo-KAGRA collaborations](https://www.ligo.caltech.edu/).
 
-h-index: 26; citations: 3314 (excludes LIGO papers to which I did not contribute)
+h-index: 27; citations: 4103 (excludes LIGO papers to which I did not contribute)
 {style="text-align: justify;"}
