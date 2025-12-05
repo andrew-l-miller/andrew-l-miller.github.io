@@ -120,7 +120,7 @@ work:
     company_url: 'https://www.nikhef.nl/en/'
     company_logo: ''
     date_start: 2023-01-01
-    date_end: 2025-11-31
+    date_end: 2025-11-30
     summary: |2-
       Responsibilities include:
       - Anomaly detection and machine learning methods to classify different types of glitches in GW detectors.
