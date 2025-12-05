@@ -3,7 +3,7 @@ from datetime import datetime
 import bibtexparser
 from bibtexparser.bparser import BibTexParser
 
-bib_file = "/Users/andrewmiller/Desktop/h-index-calculation/europasscv_example.bib"
+bib_file = "/Users/andrewmiller/Desktop/WEBSITE/h-index-calculation/europasscv_example.bib"
 output_folder = "content/publication"
 
 def format_author_name(name):
