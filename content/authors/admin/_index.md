@@ -196,6 +196,11 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: Excellent Young Scientists Fund (Overseas)
+    date: '2025-11-15'
+    awarder: National Natural Science Foundation of China (NSFC)
+    summary: | 
+      Grant to attract researchers from any discipline to China. Extremely competitive.
   - title: “Chargé de recherches” postdoctoral fellowship
     url: https://www.frs-fnrs.be/docs/Resultats/FRS-FNRS_Candidatures_retenues_2022.pdf
     date: '2022-06-28'
