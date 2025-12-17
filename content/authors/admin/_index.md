@@ -133,7 +133,7 @@ work:
       - Anomaly detection and machine learning methods to classify different types of glitches in GW detectors.
       - Advising Bachelors, Masters and PhD students
       - Early warning for neutron star mergers in Einstein Telescope data
-      - Supervised by [Chris van den Broek](https://www.uu.nl/staff/CFFvandenBroeck1) and [Sarah Caudill](https://www.umassd.edu/directory/scaudill/)
+#      - Supervised by [Chris van den Broek](https://www.uu.nl/staff/CFFvandenBroeck1) and [Sarah Caudill](https://www.umassd.edu/directory/scaudill/)
 
   - position: FSR Postdoctoral Fellow
     company_name: UCLouvain
@@ -147,7 +147,7 @@ work:
       - Advising students on searches for gravitational waves from vector boson clouds around black holes and a stochastic background
       - Building up a gravitational-wave group, organizing seminars, mentoring students, diversity and outreach.
       - Awarded two Belgian national fellowships and one international fellowship through the European Space Agency (ESA)
-      - Supervised by [Giacomo Bruno](https://cp3.irmp.ucl.ac.be/public/member/7)
+#      - Supervised by [Giacomo Bruno](https://cp3.irmp.ucl.ac.be/public/member/7)
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -239,7 +239,7 @@ awards:
 
 ## About Me
 
-Andrew L. Miller is an associate professor at the [International Center for Theoretical Physics, Asia Pacific (ICTP-AP)](https://ictp-ap.org/page/about), which is housed at the University Chinese Academy of Sciences (UCAS,中国科学院大学), in Beijing, China. His research interests include the detection of gravitational waves from neutron stars, primordial black holes binaries and particle dark matter. He is a member of the [LIGO-Virgo-KAGRA collaborations](https://www.ligo.caltech.edu/).
+Andrew L. Miller is an associate professor at the [International Center for Theoretical Physics, Asia Pacific (ICTP-AP)](https://ictp-ap.org/page/about), which is housed at the University Chinese Academy of Sciences (UCAS,中国科学院大学), in Beijing, China. His research interests include the detection of gravitational waves from neutron stars, primordial black holes binaries and particle dark matter, and he analyzes data from the [LIGO-Virgo-KAGRA collaborations](https://www.ligo.caltech.edu/).
 
 h-index: 27; citations: 4103 (excludes LIGO papers to which I did not contribute)
 {style="text-align: justify;"}
