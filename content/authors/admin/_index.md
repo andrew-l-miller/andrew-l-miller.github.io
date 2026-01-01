@@ -115,7 +115,7 @@ education:
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Associate Professor
+  - position: Assistant Professor
     company_name: ICTP-AP / University Chinese Academy of Sciences (UCAS)
     company_url: https://www.ictp-ap.org/
     company_logo: ''
