@@ -5,8 +5,7 @@ type: page
 
 If you would like to get in touch, please use the form below.
 
-For direct email, you can also reach me at  
-**andrew.miller.ligo@ucas.ac.cn**
+You can also reach me directly at **andrew.miller.ligo@ucas.ac.cn**
 
 ---
 
