@@ -20,7 +20,12 @@ For direct email, you can also reach me at
   <label for="message"><strong>Message</strong></label><br>
   <textarea id="message" name="message" rows="6" required
             style="width:100%; max-width:500px;"></textarea><br><br>
-
-  <button type="submit">Send message</button>
+  <button type="submit"
+        style="background:#3b82f6;color:white;
+               border:none;padding:0.6em 1.2em;
+               font-size:1rem;font-weight:600;
+               border-radius:6px;">
+  Send message
+  </button>
 </form>
 
