@@ -25,3 +25,7 @@ main:
   - name: Experience
     url: /experience/
     weight: 2
+  - name: Contact me
+    url: /contact/
+    weight: 8
+
