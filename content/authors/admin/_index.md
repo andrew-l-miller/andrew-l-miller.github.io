@@ -30,7 +30,7 @@ organizations:
 profiles:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:andrewlawrence.miller@ligo.org'
+    link: 'mailto:andrew.miller.ligo@ucas.ac.cn'
 #    link: '/#contact'
 #  - icon: twitter
 #    icon_pack: fab
