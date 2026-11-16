@@ -4,11 +4,11 @@ title: "New Physics in Gravitational-Wave Detectors: From Ultralight Fields to P
 
 date: 2026-10-25
 
-event: "Conference Talk"
+event: "Invited Conference Talk, Testing Aspects of General Relativity-V, 28-29 Oct. 2026"
 
-event_url: ""
+event_url: "https://sites.google.com/iitgn.ac.in/testing-gr-5/home"
 
-location: ""
+location: "Online"
 
 abstract: "A presentation exploring searches for primordial black holes and ultralight dark matter using gravitational-wave detectors."
 
