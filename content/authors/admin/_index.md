@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Assistant Professor
+role: Associate Professor
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -115,7 +115,7 @@ education:
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Assistant Professor
+  - position: Associate Professor
     company_name: ICTP-AP / University Chinese Academy of Sciences (UCAS)
     company_url: https://www.ictp-ap.org/
     company_logo: ''
@@ -239,7 +239,7 @@ awards:
 
 ## About Me
 
-Andrew L. Miller is an assistant professor at the [International Center for Theoretical Physics, Asia Pacific (ICTP-AP)](https://ictp-ap.org/page/about), which is housed at the University Chinese Academy of Sciences (UCAS,中国科学院大学), in Beijing, China. His research interests include the detection of gravitational waves from neutron stars, primordial black holes binaries and particle dark matter, and he analyzes data from the [LIGO-Virgo-KAGRA collaborations](https://www.ligo.caltech.edu/).
+Andrew L. Miller is an associate professor at the [International Center for Theoretical Physics, Asia Pacific (ICTP-AP)](https://ictp-ap.org/page/about), which is housed at the University Chinese Academy of Sciences (UCAS,中国科学院大学), in Beijing, China. His research interests include the detection of gravitational waves from neutron stars, primordial black holes binaries and particle dark matter, and he analyzes data from the [LIGO-Virgo-KAGRA collaborations](https://www.ligo.caltech.edu/).
 
-h-index: 29; citations: 4365 (excludes LIGO papers to which I did not contribute)
+h-index: 31; citations: 5558 (excludes LIGO papers to which I did not contribute)
 {style="text-align: justify;"}
