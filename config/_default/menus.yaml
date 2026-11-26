@@ -31,3 +31,6 @@ main:
   - name: Gravatars
     url: https://the-gravatars.github.io/
     weight: 9
+  - name: Recruitment
+    url: /recruitment/
+    weight: 10
