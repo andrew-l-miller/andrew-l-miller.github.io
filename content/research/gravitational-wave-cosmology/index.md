@@ -2,10 +2,7 @@
 title: "Gravitational-wave backgrounds and cosmology"
 summary: "Stochastic gravitational-wave backgrounds can encode information about unresolved astrophysical populations and early-Universe physics."
 weight: 5
-show_date: false
-show_read_time: false
-show_author: false
-hide_date: true
+date: 2026-11-26
 ---
 
 Stochastic gravitational-wave backgrounds can encode information about unresolved astrophysical populations and early-Universe physics. My research interests include using background searches to constrain neutron star populations and investigating prospects for probing fundamental physics and cosmological phase transitions.
