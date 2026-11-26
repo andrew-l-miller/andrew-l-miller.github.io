@@ -1,7 +1,7 @@
 ---
 title: 'Gravitational-Wave Sky Localization by Triangulation'
 date: 2026-11-26
-summary: 'A geometric introduction to gravitational-wave sky localization, from arrival-time delays to timing annuli and detector networks.'
+summary: 'An introduction to the geometry of sky localization of gravitational-wave events.'
 ---
 
 This Python tutorial develops gravitational-wave sky localization from simple geometry. It covers arrival-time differences, timing annuli, timing uncertainty, three-detector mirror degeneracy, approximate 90% follow-up areas, and the effects of signal-to-noise ratio, bandwidth, baseline length and network geometry.
