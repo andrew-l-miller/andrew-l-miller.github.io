@@ -2,6 +2,10 @@
 title: "Direct detection of ultralight dark matter"
 summary: "Gravitational-wave interferometers can act as particle detectors: ultralight fields may produce oscillatory forces or changes in material properties that generate measurable instrumental responses."
 weight: 3
+show_date: false
+show_read_time: false
+show_author: false
+hide_date: true
 ---
 
 Gravitational-wave interferometers can act as particle detectors: ultralight fields may produce oscillatory forces or changes in material properties that generate measurable instrumental responses. My research develops methods to distinguish and constrain different dark matter interactions using ground-based and space-based instruments.
