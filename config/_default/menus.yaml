@@ -10,8 +10,8 @@ main:
   - name: Tutorials
     url: /tutorials/
     weight: 6
-  - name: Projects
-    url: /projects/
+  - name: Research
+    url: /research/
     weight: 3
   - name: Talks
     url: /event/
