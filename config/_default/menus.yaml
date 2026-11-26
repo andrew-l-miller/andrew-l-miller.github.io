@@ -7,9 +7,6 @@ main:
   - name: Bio
     url: /
     weight: 1
-  - name: All Publications
-    url: /publication/
-    weight: 7
   - name: Tutorials
     url: /tutorials/
     weight: 6
@@ -33,4 +30,4 @@ main:
     weight: 9
   - name: Recruitment
     url: /recruitment/
-    weight: 10
+    weight: 7
