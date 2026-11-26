@@ -28,4 +28,6 @@ main:
   - name: Contact Me
     url: /contact/
     weight: 8
-
+  - name: Gravatars
+    url: https://the-gravatars.github.io/
+    weight: 9
