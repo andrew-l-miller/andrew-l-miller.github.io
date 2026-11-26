@@ -241,5 +241,9 @@ awards:
 
 Andrew L. Miller is an associate professor at the [International Center for Theoretical Physics, Asia Pacific (ICTP-AP)](https://ictp-ap.org/page/about), which is housed at the University Chinese Academy of Sciences (UCAS,中国科学院大学), in Beijing, China. His research interests include the detection of gravitational waves from neutron stars, primordial black holes binaries and particle dark matter, and he analyzes data from the [LIGO-Virgo-KAGRA collaborations](https://www.ligo.caltech.edu/).
 
+I lead [Gravatars](https://the-gravatars.github.io/), a research group exploring gravity, astrophysics and dark matter through gravitational-wave observations.
+
+**Research funding:** Co-Investigator and UCAS team lead on an NSFC Key International Cooperative Research Project exploring gravitational-wave sources using LIGO–Virgo–KAGRA observations, in collaboration with teams including Nobel laureate Prof. Takaaki Kajita and Prof. Misao Sasaki.
+
 h-index: 31; citations: 5558 (excludes LIGO papers to which I did not contribute)
 {style="text-align: justify;"}
