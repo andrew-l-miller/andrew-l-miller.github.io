@@ -1,7 +1,6 @@
 ---
 title: Research
 view: article-grid
-show_date: false
 show_read_time: false
 show_author: false
 ---
