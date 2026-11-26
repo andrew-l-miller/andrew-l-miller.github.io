@@ -2,6 +2,10 @@
 title: "Gravitational-wave data analysis"
 summary: "Long-duration signals pose computational and statistical challenges."
 weight: 6
+show_date: false
+show_read_time: false
+show_author: false
+hide_date: true
 ---
 
 Long-duration signals pose computational and statistical challenges. I develop semicoherent and pattern-recognition methods, including generalized frequency-Hough transforms, robust candidate selection and machine learning, to search large parameter spaces and distinguish weak signals from instrumental disturbances.
