@@ -2,6 +2,10 @@
 title: "Primordial black holes and subsolar-mass binaries"
 summary: "Primordial black holes could constitute a fraction of dark matter."
 weight: 2
+show_date: false
+show_read_time: false
+show_author: false
+hide_date: true
 ---
 
 Primordial black holes could constitute a fraction of dark matter. Low-mass compact binaries can emit signals that persist in the detector band for hours or longer, motivating searches beyond conventional compact-binary pipelines. My work develops searches for planetary-mass and subsolar-mass binaries, constrains primordial black hole populations, and explores mini-extreme-mass-ratio inspirals and dark-matter environments.
