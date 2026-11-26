@@ -196,6 +196,11 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: NSFC Key International Cooperative Research Grant (2026)
+    date: '2026-11-01'
+    awarder: National Natural Science Foundation of China (NSFC)
+    summary: |
+      Co-Investigator and UCAS team lead on an international project exploring gravitational-wave sources using LIGO–Virgo–KAGRA observations, in collaboration with teams including Nobel laureate Prof. Takaaki Kajita and Prof. Misao Sasaki.
   - title: Excellent Young Scientists Fund (Overseas)
     date: '2025-11-15'
     awarder: National Natural Science Foundation of China (NSFC)
@@ -243,7 +248,6 @@ Andrew L. Miller is an associate professor at the [International Center for Theo
 
 I lead [Gravatars](https://the-gravatars.github.io/), a research group exploring gravity, astrophysics and dark matter through gravitational-wave observations.
 
-**Research funding:** Co-Investigator and UCAS team lead on an NSFC Key International Cooperative Research Project exploring gravitational-wave sources using LIGO–Virgo–KAGRA observations, in collaboration with teams including Nobel laureate Prof. Takaaki Kajita and Prof. Misao Sasaki.
 
 h-index: 31; citations: 5558 (excludes LIGO papers to which I did not contribute)
 {style="text-align: justify;"}
