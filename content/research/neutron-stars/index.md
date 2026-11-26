@@ -2,10 +2,7 @@
 title: "Neutron stars"
 summary: "Continuous gravitational waves provide a way to probe non-axisymmetric neutron stars, their internal structure and rotational dynamics."
 weight: 1
-show_date: false
-show_read_time: false
-show_author: false
-hide_date: true
+date: 2026-11-26
 ---
 
 Continuous gravitational waves provide a way to probe non-axisymmetric neutron stars, their internal structure and rotational dynamics. My research investigates persistent emission from isolated and accreting neutron stars, long-duration signals from newborn neutron stars, and the potential of future detectors to measure compact-object properties. I also investigate early warning and sky localization of binary neutron stars using their long inspiral signals.
