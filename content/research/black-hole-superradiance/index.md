@@ -2,6 +2,10 @@
 title: "Black hole superradiance and boson clouds"
 summary: "Ultralight bosons can form clouds around rotating black holes through superradiance."
 weight: 4
+show_date: false
+show_read_time: false
+show_author: false
+hide_date: true
 ---
 
 Ultralight bosons can form clouds around rotating black holes through superradiance. Their gravitational-wave emission offers a way to probe particle masses and black hole populations. My work includes search methodologies and analyses targeting scalar and vector clouds around isolated and merger-remnant black holes. Related research directions include gravitational atoms and molecules.
